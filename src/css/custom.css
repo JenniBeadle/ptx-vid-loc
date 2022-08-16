@@ -1,0 +1,45 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+:root {
+  --ifm-color-primary: #3f511e;
+  --ifm-color-primary-dark: #39491b;
+  --ifm-color-primary-darker: #364519;
+  --ifm-color-primary-darkest: #2c3915;
+  --ifm-color-primary-light: #455921;
+  --ifm-color-primary-lighter: #485d23;
+  --ifm-color-primary-lightest: #526927;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #b7d232;
+  --ifm-color-primary-dark: #a7c02a;
+  --ifm-color-primary-darker: #9db528;
+  --ifm-color-primary-darkest: #829521;
+  --ifm-color-primary-light: #bed747;
+  --ifm-color-primary-lighter: #c2d952;
+  --ifm-color-primary-lightest: #cde072;
+}
+
+
+/* from https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-printing */
+
+@media print {
+    .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+}
+
+h2 {   
+    -webkit-break-after: avoid;
+    break-after: avoid;
+}
+
+h3 {   
+    -webkit-break-after: avoid;
+    break-after: avoid;
+}
