@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkloc_ptx_vid=self.webpackChunkloc_ptx_vid||[]).push([[350],{2565:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/ptx-vid-loc/es/blog/tags/hola","allTagsPath":"/ptx-vid-loc/es/blog/tags","count":1}')}}]);
