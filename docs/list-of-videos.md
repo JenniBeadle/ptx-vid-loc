@@ -5,8 +5,11 @@ title: List of Video Summaries
 ### Introduction	
 |**Count** | **Code**           | **Video title**                                                                                    |	
 |-----------|----------------------|----------------------------------------------------------------------------------------------------|	
+| 1 | 0.01a	| How the Windows Work 1  (see 0.01...) | 
+| 2 | 0.01b	| How the Windows Work 2  (see 0.01...) |
+| 3 | 0.02	| Why Change the menus |
+| 4 | 0.03 | Quick Guide to Quick Reference  |  
 | 5         | [0.1](https://jennibeadle.github.io/paratextmanual/docs/next/Video-summaries/Navigation/0.1)                 | What is Paratext (0.1)                                                                |	
-|  |  |  |	
 | 6         | [0.2.1a](https://jennibeadle.github.io/paratextmanual/docs/next/Video-summaries/Navigation/0.2.1a)               | How To Change The User Interface Language      (0.2.1a)                                                        |	
 | 7         | [0.2.1b](https://jennibeadle.github.io/paratextmanual/docs/next/navigation/0.2.1b)               | 	The Basics Of Projects And Resources (0.2.1d)   |
 | 8         | [0.2.1c](https://jennibeadle.github.io/paratextmanual/docs/next/Video-summaries/navigation/0.2.1c)              | 	Finding Menu Items (0.2.1c)   |

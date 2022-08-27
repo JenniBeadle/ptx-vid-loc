@@ -14,14 +14,20 @@ Les 13 premières vidéos peuvent utiliser n'importe quel projet.
 ### \# 2 - 0.01b Comment fonctionnent les fenêtres 2
 Ces deux vidéos (0.01a+0.01b) ont été divisées. Voir la navigation ci-dessous.
 ### \# 3 - 0.02 Pourquoi changer les menus
+- [Overview](...) [Actions](...)  
+- **Opening screen**  
+- **Prep**: 
 
 ## \# 4 - 0.03 Guide rapide de la référence rapide
+- [Overview](...) [Actions](...)  
+- **Opening screen**  
+- **Prep**: 
 
 ## Introduction
 ## \# 5 - 0.1 Qu'est-ce que le paratexte (0.1)
-- **Ressources** Vidéo : 
-Overvew : 
-English srt :
+- [Overview](...) [Actions](...)  
+- **Opening screen**  
+- **Prep**: 
 - Il s'agit d'une vidéo détaillée montrant la plupart des fonctions. Il est préférable de la laisser pour la fin. De cette façon, vous aurez préparé des projets appropriés et vous aurez peut-être des séquences à réutiliser.
   - Plan du projet
   - Notes.
