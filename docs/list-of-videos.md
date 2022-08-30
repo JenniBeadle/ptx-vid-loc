@@ -1,6 +1,9 @@
 ---	
 title: List of Video Summaries	
 ---	
+This page is copied from https://jennibeadle.github.io/paratextmanual/docs/next/Video-summaries/list-of-videos
+It lists all the videos and has a link to the video summaries.
+
 #### To display the summary, either click on the code below, or choose from the left sidebar.	
 ### Introduction	
 |**Count** | **Code**           | **Video title**                                                                                    |	
