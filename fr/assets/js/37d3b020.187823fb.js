@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkloc_ptx_vid=self.webpackChunkloc_ptx_vid||[]).push([[369],{6071:l=>{l.exports=JSON.parse('{"permalink":"/ptx-vid-loc/fr/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

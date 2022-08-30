@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkloc_ptx_vid=self.webpackChunkloc_ptx_vid||[]).push([[852],{6549:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/ptx-vid-loc/es/blog/tags/docusaurus","allTagsPath":"/ptx-vid-loc/es/blog/tags","count":4}')}}]);
