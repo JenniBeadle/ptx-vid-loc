@@ -29,9 +29,9 @@ title: Stage 3 Prepare for the consultant
 [**Overview**](https://drive.google.com/file/d/1Ut4Fi3xewOMpIYfPqv0CrTiPXSlvahOH/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1B5eEMZbmI5ovdsg8dolub8AFKc8m6jOw/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
-  - Project plan
+  - Project Plan
       - Need messy project plan - can use pp [3.2b-start](https://drive.google.com/file/d/1JKaOv2CoYQbVCjnMlLUfJ8BQKxxyR1fo/view?usp=sharing)
-      - Then project plan complete all the tasks in stage 1&2 - can use pp [3.2b-ready](https://drive.google.com/file/d/1ermidSwoEXT0DLPlkfZcwYOSHd65hq4j/view?usp=sharing)
+      - Then project plan with all the tasks in stage 1&2 marked as complete- can use pp [3.2b-ready](https://drive.google.com/file/d/1ermidSwoEXT0DLPlkfZcwYOSHd65hq4j/view?usp=sharing)
 
 ### \# 78 - 3.2c	Back Translation. How to Draft and Mark as Finished (3.2c)
 [**Overview**](https://drive.google.com/file/d/14yVZ78lDv6CV0hGUY-0bf2lMx2JJOcB-/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1w33FriBe0YoxqakcQ11-PxxvHUr9UTam/view?usp=sharing)  
@@ -42,7 +42,7 @@ title: Stage 3 Prepare for the consultant
 [**Overview**](https://drive.google.com/file/d/1rR3nng9cp73zHRJ0kR6HUyW9MaYaxRCj/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/189aC-9d30QC-7sfEBnRXDMvGw8axVG1g/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
-  - Project plan - set the **two back translation checks** to Stage 3 Preparing for the Consultant
+  - Project plan - set the **two back translation checks** to *Stage 3 Preparing for the Consultant*
   - Add errors:
       - Some of the errors are difficult to reproduce.
       - blank box unfinished
@@ -90,8 +90,8 @@ title: Stage 3 Prepare for the consultant
 - **Opening screen**  
 - **Prep**: 
   - add examples of issues: 
-    - numbers without thousands separators (e.g.5000)
-    - unmarkded references in introduction (e.g. 14.6)
+    - numbers without the thousand separators (e.g.5000)
+    - unmarked references in the introduction (e.g. 14.6)
   - assign Numbers check to the user
 ### \# 87 - 3.4f	Basic Checks: Capitalization (3.4f)
 [**Overview**](https://drive.google.com/file/d/1dvBSp4QBfouYT4lIfXcWfWLhckZEFZvr/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1rzvU3DKCVp3DFHcTk3BC7ZjEuB-0_O-N/view?usp=sharing)
@@ -122,7 +122,7 @@ title: Stage 3 Prepare for the consultant
   - assign Repeated words check to user
    - choose two examples of repeated words in your languages e.g. English very very, and that that
    - Confirm that repeated words check is in the project plan (normally added after stage 2) 
-   - confirm that check has several issues 
+   - confirm that the check has several issues 
       - you will mark one as invalid
       - then correct some with the A&P and 
       - others with the menu.
@@ -139,7 +139,8 @@ title: Stage 3 Prepare for the consultant
       - Callout with corrected sentence.
       - Callout with an invalid sentence with repeated word e.g. English 'When they had had gone ...'
       - Callout with corrected sentence.
-      - an invalid sentence with wrong homonym. e.g. 'He who has ears let hymn here.'
+      - an invalid sentence with the wrong homonym. e.g. 'He who has ears let hymn here.'
       - Callout 'Deny is just to be used for exceptions which cannot be handled some other way.' (=last sentence of script)
       - repeated word several times (e.g a word in a psalm) most of the errors denied. 
+
 

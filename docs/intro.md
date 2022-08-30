@@ -1,18 +1,22 @@
 ---
 sidebar_position: 1
 title: Overview
+slug: /
 ---
 
-This site has been developed to help you localise the Paratext videos. Notes for the videos are grouped by stages. 
+This site is a work in progress. It is being developed to help you localise the Paratext videos. The videos are grouped by stages. 
 
-- [**Introduction**](Introduction.md) (0.x)
-- [**Stage 1**](Stage-1.md) (1.x - 1A.x)
-- [**Stage 2**](Stage-2.md) (2.x)
-- [**Stage 3**](Stage-3.md) (3.x)
-- [**Stages 4-6**](Stage-4-6) (4.x, 5.x, 6.x)
+|  Stage  | Code |  # of videos |
+|---------|--------|--------------|
+| [**Introduction**](Introduction.md) | (0.x) | 28 videos |
+| [**Stage 1**](Stage-1.md) | (1.x - 1A.x) | 27 videos |
+| [**Stage 2**](Stage-2.md) | (2.x) | 17 videos]
+| [**Stage 3**](Stage-3.md) | (3.x)  |  17 videos |
+| [**Stages 4-6**](Stage-4-6) | (4.x, 5.x, 6.x) | 6 videos |
+
 
 For each video, it describes
-- the resources available
+- the resources available, links to **Overview** **[**Actions**]** 
 - advice on the choice of project for each video
 - notes on any preparation needed on the project 
 - any screenshots, pdfs etc
@@ -28,5 +32,5 @@ These folders are copies of the contents of  **MTT4** folder in **My Paratext 8 
 :::
 
 ### Project plans
-Several videos require complex project plans. See [**Project plans folder**](https://drive.google.com/drive/folders/1B5L--2h7hH5bch3lC-eh6UjgID0iwLdZ?usp=sharing). The [**README**](https://docs.google.com/document/d/1LcNOxeTBOnlCqzNy4Q2zpqcaBLT3Usg5dtWzTisJMiE/edit?usp=sharing) file has some instructions/suuggestions for use.
+Several videos require complex project plans. Copies of the ProjectProgress files can be found at [**Project plans folder**](https://drive.google.com/drive/folders/1B5L--2h7hH5bch3lC-eh6UjgID0iwLdZ?usp=sharing). The [**README**](https://docs.google.com/document/d/1LcNOxeTBOnlCqzNy4Q2zpqcaBLT3Usg5dtWzTisJMiE/edit?usp=sharing) file has some instructions/suggestions for use.
  

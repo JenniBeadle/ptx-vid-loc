@@ -23,7 +23,7 @@ title: Stages 4-6 Consultant Check and finalisation for publication
      - Manuel's edit is visible
      - "I'm marking bili as correctly spelled"
      - Oh, are you sure it's correct?" 
-   - screen shot of second user waiting to join
+   - screenshot of the second user waiting to join
    - choose text in a verse to edit (e.g. Luk 1:3)
    - File Explorer window open "My Paratext 8 Projects"
 
@@ -37,7 +37,7 @@ title: Stages 4-6 Consultant Check and finalisation for publication
   - text: Send/Receive
   - Chorus Hub website - https://software.sil.org/chorushub/
   - Task manager: ChorusHub (shown in background process)
-  - last send/receive to Internet (before filming)
+  - last send/receive to the Internet (before filming)
 - During Recording
   - install ChorusHub
   - send/receive to **Chorushub**, 
@@ -76,7 +76,7 @@ title: Stages 4-6 Consultant Check and finalisation for publication
 ### \# 94 - 6.1a	Parallel Passages Tool (6.1a)
 [**Overview**](https://drive.google.com/file/d/1PCVhaFNvE_82DAYo6X7D4KcIU1tWnzcT/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1LvPggWJoNXntKxG68cW6aIUqeQAONTUb/view?usp=sharing)  
 - **Opening screen**: Parallel passages tool 
-  - Mat 14:1 current book. (Proj+1 res (no greek))  
+  - Mat 14:1 current book. (Proj+1 res (no Greek))  
 - **Prep**
   - a resource to add as comparative text
   - editing permission for book
@@ -93,4 +93,5 @@ title: Stages 4-6 Consultant Check and finalisation for publication
   - Need to have several verses untranslated
   - Assign Parallel passages to the user
   - Project plan - shows several issues
+
 

@@ -1,6 +1,7 @@
 ---
 titre : Introduction
 sidebar_position : 2
+slug: /
 ---
 
 Il y a au moins 24 vidéos d'introduction. Ces notes ont été préparées pour vous aider à localiser les vidéos. 

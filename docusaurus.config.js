@@ -35,18 +35,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
+          routeBasePath: '/',
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/JenniBeadle/ptx-vid-loc/',
+            'https://github.com/JenniBeadle/ptx-vid-loc/tree/main',
         },
-        //blog: {
-          //showReadingTime: true,
-          //// Please change this to your repo.
-          //// Remove this to remove the "edit this page" links.
-          //editUrl:
-            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //},
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -77,13 +71,13 @@ const config = {
           src: 'img/logo9.png',
         },
         items: [
-          {
+/*           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Docs',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+ */          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/JenniBeadle/ptx-vid-loc/',
             label: 'GitHub',
@@ -103,7 +97,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+/*             title: 'Docs',
             items: [
               {
                 label: 'Docs',
@@ -140,9 +134,9 @@ const config = {
                 href: 'https://github.com/JenniBeadle/ptx-vid-loc',
               },
             ],
-          },
+*/          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SIL International. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SIL International. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -150,5 +144,20 @@ const config = {
       },
     }),
 };
+async function createConfig() {
+  const mdxMermaid = await import('mdx-mermaid')
 
+  return {
+    presets: [
+      [
+        'classic',
+        {
+          docs: {
+            remarkPlugins: [mdxMermaid.default],
+          }
+        }
+      ]
+    ]
+  }
+}
 module.exports = config;

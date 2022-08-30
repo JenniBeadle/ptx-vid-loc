@@ -181,6 +181,6 @@ This video shows English examples so users can understand the contents of the ma
     - can use pp [1A.7b](https://drive.google.com/file/d/1227dXYrqsApJgvt7xs6sQd9riqzmAyaM/view?usp=sharing)
   - passage with examples of punctuation isolated, word medial and word final
   - find other books which show "setup required" and others showing number of issues
-  - examples of same punctuation mark in list in different contexts (final, isolated ..)
+  - examples of same punctuation mark in list in different contexts (final, isolated ...)
   - examples of both contexts but only one valid
   - screen shot of video 1.4  (same as previous video)

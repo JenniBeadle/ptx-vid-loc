@@ -64,10 +64,10 @@ find examples to suggest
 - **Prep**: 
 
 ## Biblical terms
-The English videos use a back translation (into an european language) as the translation project so that users will understand to process. But it needs to be clear that translators need to use their vernacular language project and do a back translation into your localised language.
+To learn the process of identifying Biblical terms, it helps if the viewer can at least vaguely understand the translation. Therefore the English videos use a back translation (into an European language) as the actual translation project. But it needs to be clear that translators use their vernacular language project and identify Biblical terms in their vernacular translation not their back translation.
 
 ### \# 62 - 2.2a	Biblical Terms: Introduction (2.2a)
-[Overview](https://drive.google.com/file/d/16DkTpR09Am6jasUCHVf4KiRBYmwbwPFh/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1eot9bj3OTiZBE1OqwnhZiF7l0vOQDb3W/view?usp=sharing)  
+[**Overview**](https://drive.google.com/file/d/16DkTpR09Am6jasUCHVf4KiRBYmwbwPFh/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1eot9bj3OTiZBE1OqwnhZiF7l0vOQDb3W/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
 ### \# 63 - 2.2b	Biblical Terms: Identify Renderings (2.2b)
