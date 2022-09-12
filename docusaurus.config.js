@@ -66,11 +66,11 @@ const config = {
     ({
       navbar: {
         title: 'Localising Paratext Videos',
-        logo: {
+/*         logo: {
           alt: 'Paratext Logo',
           src: 'img/logo9.png',
         },
-        items: [
+ */        items: [
 /*           {
             type: 'doc',
             docId: 'intro',

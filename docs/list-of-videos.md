@@ -1,7 +1,7 @@
 ---	
 title: List of Video Summaries	
 ---	
-#### To display the summary, either click on the code below, or choose from the left sidebar.	
+#### To display the summary, the click on the code below (for videos 5-.95)	
 ### Introduction	
 |**Count** | **Code**           | **Video title**                                                                                    |	
 |-----------|----------------------|----------------------------------------------------------------------------------------------------|	
