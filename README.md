@@ -16,7 +16,7 @@ Stage 5
 Stage 6
 Things to do
 
-### Each video
+### For Each video
 Videos are numbereed from # 1 to # 95.
 Codes Video titles and codes again. 
 Helpful information
