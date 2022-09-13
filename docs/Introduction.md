@@ -40,7 +40,7 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
   -   Resources and several Enhanced Resources 
   -   Paratext Live.
   -   Parallel Passages tool
-  -   Biblical Terms tool.
+  -   Biblical Terms tool
   -   Spellchecking - Wordlist
   -   Back translation for the consultant, and/or prepare a more 
   -   Literal back translation using the interlinearisation tool
