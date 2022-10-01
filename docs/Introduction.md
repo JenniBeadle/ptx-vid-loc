@@ -32,9 +32,12 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
 ### \# 5 -	0.1	What is Paratext (0.1)
 [**Overview**](https://drive.google.com/file/d/1ok7ixl6bgQ0FRKhDiJVIGuz82iXCW3Lg/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1kJtG2lAwPn-4IbdWfbmJqRSkStnLgdCm/view?usp=sharing)  
 - **Opening screen**  
-- **Prep**: 
-- Project plan: tasks as at 1:27, 2:07
+- **Prep**:  Taken from script
+  :::danger
+  this needs to be checked to see if it needs updating.
+- Project plan: shown at 1:27 and 2:07
 - This is a detailed video showing most of the functions. It is best to leave it until last, That way you will have prepared suitable projects and may have footage to reuse.
+<<<<<<< Updated upstream
   -   Project Plan
   -   Notes.
   -   Resources and several Enhanced Resources 
@@ -44,6 +47,22 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
   -   Spellchecking - Wordlist
   -   Back translation for the consultant, and/or prepare a more 
   -   Literal back translation using the interlinearisation tool
+=======
+1.  Open in Paratext: PTP project, two resource projects (for example, NIV11 and GNT92), and the source language text. Click in PTP, then go to Windows \> Tile vertically. Paratext will allot equal screen space to the 4 projects, with PTP at the top left. Go to Matthew 11.
+
+2.  Click on the source language text window. If the Greek does not have lemmas (word roots) and glosses showing, click on “View” and check “lemmas” and “glosses.” The Greek should look like this:
+
+![https://lh6.googleusercontent.com/pIzDIdx6SLHe73YYoTtohKPCapitUi_CCXBaItYNM2VOb026Yj-3fjcXuX8LJEwSKjT3hPjnL0T0cUeDiyvca0ba3Zfe64UouJqlHZf30SyRpR6OdOBmMyeRJxYsVzz1e9FLV0APpya2sua9FNv7yti0G5z7DwPS_4xvNkpM2WYrxwjFo-G2KNqx](media/93b94a842a3cadee742227b52ca664bf.png)
+
+3) Modify PTP so Jerusalem is misspelled “Jeruslem” twice (for example, in Hebrews 12:22 and 13:12). In Tools \> Word list, make sure spelling status for “Jeruslem” is marked as unknown. Open Biblical terms (Tools, tool is set to display terms for current verse. Add an exegetical type note in Luke 3:9, for example, select “cut da tree roots” and write “we cut down trees at the trunk, then dig the roots out. Should we change this?”   
+4) In Matthew 11, delete two words from verse 1, for example “dey gotta” (9th and 10th words).
+
+5) A second user who can edit the text is needed for the PT live demonstration.
+
+6) Create punctuation error in Luke 3. For example, delete space after a comma in verse 12.
+
+7) Go to Assignments and Progress in PTP for Luke. Make sure the “Complete translation brief” and “Exegesis” task are checked as completed, while other tasks are not checked as completed.
+>>>>>>> Stashed changes
 
 ### \# 6 -	0.2.1a	How To Change The User Interface Language (0.2.1a)
 [**Overview**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
@@ -57,12 +76,13 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
 ## Navigation
 ### \# 7 -	0.2.1b	The Basics Of Projects And Resources (0.2.1b)
 - [Overivew](https://drive.google.com/file/d/1KBFsgSD-XV3C278c7Xo3gKpRY8khACeg/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)  
-- **Opening screen**: Mat, with proj + 2 res  
+- **Opening screen**: Mat, with proj + 2 res as panels  
 - **Prep** 
   - you need permission to edit Matthew but not Mark
-  - you will use the Open menu (so check which filters are chosen)
+  - you will use the Open menu (so check which filters are chosen - Project, Resources and Source Language Texts)
   - you will Close Paratext
   - restart from Desktop (so clean up your desktop!)
+
 
 ### \# 8 - 0.2.1c	Finding Menu Items (0.2.1c)
 [**Overview**](https://drive.google.com/file/d/1Z3ADSZ1uGaFBL0Hzj1ZwR7B-rrcRhWaa/view?usp=sharing) [**Actions**]  
@@ -85,6 +105,14 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
     - 5 windows in columns  
   Project, dictionary, two resources, notes list
 
+Notes from script:
+- Open five or six windows, the PTP and multiple resources. Have one of each type of Window display. (Include NRSV, HBKENG)
+Avoid opening an enhanced resource, as the line between the text and the research pane may look confusingly like the border between projects when arranging panels.  
+
+:::caution
+I failed to record the screen actions in a way which worked with this script so I ended up having to change the script. The order of teaching planned here is probably superior though, so if a localizer can achieve it like this, all the better!
+::: 
+
 :::tip
 The video starts with a good layout (which is different to the final layout). But it should be possible to start filming from the messy layout and then paste the good layout to the beginning. 
 :::
@@ -92,16 +120,19 @@ The video starts with a good layout (which is different to the final layout). Bu
 :::info Changes in the latest version
 There are now 2 ways to access Text collection  in P9.3
 :::
+
 [**Overview**](https://drive.google.com/file/d/1-rqlz4tOVSb5ES7Jx68COne6KnsbG4wP/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1mPh2P6MR1xhAR4OqScJpiSpY5ud3c52M/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
+  - I’m starting from the “PTP with 6 resources” layout saved in the video on Arranging windows. I have closed the floating window for simplicity. 
+
   - Video starts with a text collection already open, then later closes it and shows how to open.
   - go to "Open" and check that Resources and Source language texts are the only buttons selected.
   - choose several resources to add to the text collection
 
 ### \# 11 - 0.2.3a	How To Control Which Windows Scroll Together (0.2.3a)
 [**Overview**](https://drive.google.com/file/d/1jbpIh6trm8cKwi6d5hM1UW3N1dGhIUPS/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1oPg8ZoNNe5N5sFEaU9aXwsInPWTp_97c/view?usp=sharing)  
-- **Opening screen**: Heb 10:1 with several resources open
+- **Opening screen**: Heb 10:1 with several resources open as panels.
 - **Prep**
   - Your project needs to have both OT and NT books
     - you need an NT book with an OT quotation, e.g. Heb 10 + Jer 31:51 or Psa 8:3 and Mat 21.6
@@ -112,13 +143,14 @@ There are now 2 ways to access Text collection  in P9.3
 ### \# 12 - 0.2.3b	How To Set The Default Keyboard For A Project (0.2.3b)
 [**Overview**](https://drive.google.com/file/d/1WtLhl3VA_VQV0vX7nvX39h3XLZ-Ym2Yi/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/19DCo-dFmBvcQgccrP4mZzDquOZpSNN_F/view?usp=sharing)  
 - **Recording area**: You will need to capture the Keyman icons on the taskbar
-- **Opening screen**  2 projects, two resources
+- **Opening screen**  2 projects, two resources (one needing Keyman)
 - **Prep**: 
   - Annotation text to translate: 
     - This computer and this user ONLY
-  - You need at least two projects, one with special characters and one without
-  - you need the Keyman Keyboard for the project with special characters
+  - Have a Paratext project open requiring a non-default keyboard, as well as PTP. 
+  - To use the Fulfulde project as described in the script, restore the backup file FTP and install the keyman keyboard fulfunik7 from the shared drive resources folder.
   - Screenshot of Keyman configuration showing that you have a keyboard installed
+
 
 ### \# 13 - 0.2.3c	How To Swap A Text In A Window (0.2.3c)
 [**Overview**](https://drive.google.com/file/d/1zU0XVu9A0zGDCeAfetXs3uHl8BUQsoUo/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1DPz5SA4tSyYelGhrVC399Beg1jTnqoq5/view?usp=sharing)  
@@ -131,7 +163,7 @@ There are now 2 ways to access Text collection  in P9.3
 ### \# 14 - 0.2.3d	Further Tips On Arranging Windows (0.2.3d)
 [**Overview**](https://drive.google.com/file/d/1kSawCCWITwaJbcNclhsEUEH01HDf4VqI/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1Jnq4zDeLJIjChrtycp585Tj02jHZiznf/view?usp=sharing)  
 - **Recording screen**: you need to include the taskbar
-- **Opening screen**: Continues from 0.2.1d	How To Arrange Windows
+- **Opening screen**: Continues from 0.2.1d	*How To Arrange Windows*
 - **Prep**: 
   - **Title slides to translate**  
   Tip1: How to swap windows  
@@ -142,8 +174,9 @@ There are now 2 ways to access Text collection  in P9.3
   Summary
   - Title screen from the previous video "How to Arrange Windows"
   - screenshots of Paratext menu showing undo tab move, undo tab close
-  - a variety of resources 
-  
+  - a variety of resources. 
+  Four projects in 3 column layout, PTP on the left, NRSV in middle, right column split vertically between anything (top) and NLT07 (bottom).
+
 ### \# 15 - 0.2.3e	How To View Other Bible Related Texts In Paratext (0.2.3e)
 [**Overview**](https://drive.google.com/file/d/1wLC9rOZHbA0vBfRzlM6m0CZYiB5jRrv-/view?usp=sharing) [**Actions**]
 - **Opening screen**  
@@ -171,13 +204,16 @@ There are now 2 ways to access Text collection  in P9.3
 ### \# 17 - 0.3	Finding Help (0.3)
 [**Overview**](https://drive.google.com/file/d/1tvA2T14nBMtAzaFuvht_bjctdk5VP5V5/view?usp=sharing) [**Actions**]  
 - **Opening screen**  Mat 1:14 project / text collection + res+ source text
+  -  A reasonable layout as a background. A project and a few resources/other tools.
 - **Prep**: 
   - text for annotation 
     - Help
   - websites:
     - paratext.org 
     - lingtran.net
-  - several help pages (are there any in your language?)
+  -  several help pages (are there any in your language?)
+  -  Ensure Paratext Settings dialog guide is showing.
+
 
 ## Send and receive
 ### \# 18 - 0.4a	What Is Send & Receive Why Do I Need it (0.4a)
@@ -237,10 +273,10 @@ There are now 2 ways to access Text collection  in P9.3
 - **Opening screen**  
 - **Prep**: 
     - text to translate:
-    - Send/Receive frequently
-    - Daily routine
-    - Start work: Send/Receive
-    - Finish work: Send/Receive
+      - Send/Receive frequently
+      - Daily routine
+      - Start work: Send/Receive
+      - Finish work: Send/Receive
 - Screenshot:
     - Send/receive by Internet
  
@@ -282,8 +318,10 @@ There are now 2 ways to access Text collection  in P9.3
 [**Overview**] [**Actions**]  
 **Opening screen** Mrk 5:42, Enh Res
 - **Prep**: 
-   - installs a resource
-   - installs an enhanced resource and images
+  - Install some English resources on computer. 
+  - Install one additional English resource with the “Show resources only in languages that match my installed resource” checked.
+  -  Remove ESV16UK + and media files if it is installed. 
+
 ### \# 26 - 0.5.3	Which Biblical Terms List Does An Enhance Resource Use? (0.5.3)
 [**Overview**](https://drive.google.com/file/d/1pe0sikT92j3Dbmo1Ki-9S845LUqFlG4y/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1bvleQDT3_N1OADi4xXVU3lXw9JD5BS1k/view?usp=sharing)  
 - **Opening screen**  Jon 1:2, proj / enh res

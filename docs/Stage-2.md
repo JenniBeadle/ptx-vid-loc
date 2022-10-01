@@ -16,6 +16,7 @@ Slide:
 Slide:   
   Wordlist Tool
     ... 
+
 ### \# 57 - 2.1b	Spell Check Current Book (2.1b)
 [**Overview**](https://drive.google.com/file/d/1OlGYaSo5l4PB-AKUtKyMst-9hL6z_tw3/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1k3lKGMjMpuFKfIOYpFIDeJL7RPa3-pa2/view?usp=sharing)  
 **Opening screen**: Mat 1:1
@@ -29,23 +30,25 @@ Slide:
 2. Spell Check Current Book  
 3. Spell Check Common Typos  
 Prep: 
-...  
-:::danger To do
-NEEDS more explanation on choice of errors.
-:::
+  -  words chosen
+     -  makuzi
+     -  oswa
+     -  osiwa
+     -  ahixomolaga 
+
 ### \# 58 - 2.1c	Spell Check: Common Typos (2.1c)
 [**Overview**](https://drive.google.com/file/d/13UhDi80gmAI0m33ynxqzNQWRjH6_vfEW/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1KNpZDMbqjpKJpO2Y_eVI4JmLGbs3UViQ/view?usp=sharing)  
 **Opening screen** Mat 14:36.  
 - **Prep**: 
-The video starts with the wordlist open. Then closes it and shows how to open wordlist.  
-- It expects that errors have been previously made (1:51).  
+   -  Preparation: Before obtaining the zipped project, use ordinary MTT2. Change an occurrence of **odhe** to **ohde**. Use Wordlist tool. RECORD!!!! Mark ohde as incorrect and select odhe as the corrected spelling. Use this recording briefly in the edited Camtasia project.The video starts with the wordlist open. Then closes it and shows how to open wordlist.
+- Transition to show saved details: 
+  - Make a separate recording of the wordlist tool, open menu, select ‘show reviewed words that are no longer exist in project’. 
+  - Search for hdaali.  
+- (1:51) It expects that errors have been previously made.  
 :::tip
 This tool uses corrections that have already been made before which are then used to identify other corrections. To get Paratext to remember corrections they must be made in the wordlist (not manual corrections). 
 :::
 
-:::To do
-find examples to suggest
-:::
 
 ### \# 59 - 2.1d	More on Wordlist Tool (2.1d)
 [**Overview**](https://drive.google.com/file/d/1rYQGjVH49lkUKCZKKNRrrAoAk9xN3D_R/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1XsRNrNSQYQyd4Ex7593T2nGxpG9bZzAo/view?usp=sharing)  
@@ -57,32 +60,80 @@ find examples to suggest
 [**Overview**](https://drive.google.com/file/d/18yIiadrxwaAebJyKee5Jf2HEN8iD1SZe/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1CUCkZ5lWLbkASRvDQ-z60ygmJGD_dJ1G/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
+  -  Recording area needs to include taskbar
+  -  From the wordlist, choose a word which occurs more than once
 
 ### \# 61 - 2.1f	Spell Check: Display Spelling Errors (2.1f)
 [**Overview**](https://drive.google.com/file/d/1njOSR4-zDlY9vT_7iCQr48E-YZ0Ss2Vu/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1y_ilgjO1zWRgVpKmv9eXTzR8PYgpHWB-/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen**  Mat 1:17
 - **Prep**: 
+  -  choose words to correct 
+     -  (e.g. agaveviwe --> agavehiwe)
+     -  omukaliha verse 19) 
+     -  ahidheeliwaga verse 20 
+     -  wari verse 20 --> waari
+     -   wi -> wii  verse 22
+  -  Text to translate for annotations
+     - status incorrect, probably incorrect
+     - suspicious undecided words
+     - status undecided
+     - is actually correct
+- need blank project
+      -  need text to type for several vereses
+
 
 ## Biblical terms
 To learn the process of identifying Biblical terms, it helps if the viewer can at least vaguely understand the translation. Therefore the English videos use a back translation (into an European language) as the actual translation project. But it needs to be clear that translators use their vernacular language project and identify Biblical terms in their vernacular translation not their back translation.
 
 ### \# 62 - 2.2a	Biblical Terms: Introduction (2.2a)
 [**Overview**](https://drive.google.com/file/d/16DkTpR09Am6jasUCHVf4KiRBYmwbwPFh/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1eot9bj3OTiZBE1OqwnhZiF7l0vOQDb3W/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen** Luk 3:4 Proj+Biblical terms
+rendering : Biblical terms tool (proj bib terms)
+
 - **Prep**: 
+  -  one term where text does not match with renderings 
+  -  prep at least one term with no renderings,
+  -   another with unapproved rendering
+  -  Text to translate for annnotations
+     -  An Project Administrator sets this up for you.
+
 ### \# 63 - 2.2b	Biblical Terms: Identify Renderings (2.2b)
 [Overview](https://drive.google.com/file/d/1hqZojVgeSOgofWFNiAQD6w9xGNVJIr3K/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1XS2gzyAAfZW1k3WUuhfjBh7ifFoUEVCz/view?usp=sharing)  
-- **Opening screen**  
-- **Prep**: 
+- **Opening screen** MTT2 Mark 2:23  
+- **Prep**:
+  -  (Guess Miscellaneous before start =  filter for terms in miscellaneous category and use Tools > Guess renderings)
+  -  sabuddu
+  -  Biblical term disciple
+  -  tirigu
+  -  Biblcal term wheat
+  -  For baptisma, select onabathiz… in Mk 10:38
+  -  archierus 
+
 ### \# 64 - 2.2c	Biblical Terms: Edit/Delete Renderings (2.2c)
 [**Overview**](https://drive.google.com/file/d/1XZIjzry5weLckovBR1DYmNfd9EdWFeHt/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1XS2gzyAAfZW1k3WUuhfjBh7ifFoUEVCz/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen**  MTT2 Mrk 1:4  both Bib. terms windows on screen
 - **Prep**: 
+  - several renderings for baptize and one with * 
+    -  baptizo row
+    -  owaabathiz…
+    -  *bathiz*
+    -  Namabathiz...
+    -  Add (the baptist)
+  -  explanation to tye Type: Reduced renderings to one root using asterisk
+  -  description to Type: Check the root has been entered correctly so all inflections can be matched. Watch out for matches to baptism versus baptise.
+
 ### \# 65 - 2.4a	Print a Draft (2.4a)
 [**Overview**](https://drive.google.com/file/d/14Lpxui-_engbQvD98riyF7BT6XHA_Jzh/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1yEkhyGVPEVds-9VMim_Zw1JLcyhnW7PR/view?usp=sharing)  
-- **Opening screen**  
-- **Prep**: 
+- **Opening screen**  Luk 1:1 project / res+text coll
 
+- **Prep**: 
+  - text to translate for annotations
+    - Good looking
+    - Your PDF reader may look different
+    - Have you changed Matthew at all since yesterday?
+    - Nope
+    - Great
+ - PTX print website
 ## Notes
 ### \# 66 - 2.5a	Notes: How to Insert (2.5a)
 [Overview](https://drive.google.com/file/d/1muj-7o1dhVvdOFB3F7voEouVoJn2IPZn/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1Ujk7_MOvmplK1V45MJ8jlr248kYAARuj/view?usp=sharing)  
