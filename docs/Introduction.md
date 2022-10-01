@@ -37,18 +37,9 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
   this needs to be checked to see if it needs updating.
 - Project plan: shown at 1:27 and 2:07
 - This is a detailed video showing most of the functions. It is best to leave it until last, That way you will have prepared suitable projects and may have footage to reuse.
-<<<<<<< Updated upstream
-  -   Project Plan
-  -   Notes.
-  -   Resources and several Enhanced Resources 
-  -   Paratext Live.
-  -   Parallel Passages tool
-  -   Biblical Terms tool
-  -   Spellchecking - Wordlist
-  -   Back translation for the consultant, and/or prepare a more 
-  -   Literal back translation using the interlinearisation tool
-=======
-1.  Open in Paratext: PTP project, two resource projects (for example, NIV11 and GNT92), and the source language text. Click in PTP, then go to Windows \> Tile vertically. Paratext will allot equal screen space to the 4 projects, with PTP at the top left. Go to Matthew 11.
+
+From script:
+-  1.  Open in Paratext: PTP project, two resource projects (for example, NIV11 and GNT92), and the source language text. Click in PTP, then go to Windows \> Tile vertically. Paratext will allot equal screen space to the 4 projects, with PTP at the top left. Go to Matthew 11.
 
 2.  Click on the source language text window. If the Greek does not have lemmas (word roots) and glosses showing, click on “View” and check “lemmas” and “glosses.” The Greek should look like this:
 
@@ -62,7 +53,6 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
 6) Create punctuation error in Luke 3. For example, delete space after a comma in verse 12.
 
 7) Go to Assignments and Progress in PTP for Luke. Make sure the “Complete translation brief” and “Exegesis” task are checked as completed, while other tasks are not checked as completed.
->>>>>>> Stashed changes
 
 ### \# 6 -	0.2.1a	How To Change The User Interface Language (0.2.1a)
 [**Overview**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
@@ -110,12 +100,10 @@ Notes from script:
 Avoid opening an enhanced resource, as the line between the text and the research pane may look confusingly like the border between projects when arranging panels.  
 
 :::caution
-I failed to record the screen actions in a way which worked with this script so I ended up having to change the script. The order of teaching planned here is probably superior though, so if a localizer can achieve it like this, all the better!
+Susanna failed to record the screen actions in a way which worked with this script so she ended up having to change the script. The order of teaching planned here is probably superior though, so if a localizer can achieve it like this, all the better!
 ::: 
 
-:::tip
-The video starts with a good layout (which is different to the final layout). But it should be possible to start filming from the messy layout and then paste the good layout to the beginning. 
-:::
+
 ### \# 10 - 0.2.2a	How To Open And Modify A Text Collection (0.2.2a)
 :::info Changes in the latest version
 There are now 2 ways to access Text collection  in P9.3
@@ -321,7 +309,6 @@ There are now 2 ways to access Text collection  in P9.3
   - Install some English resources on computer. 
   - Install one additional English resource with the “Show resources only in languages that match my installed resource” checked.
   -  Remove ESV16UK + and media files if it is installed. 
-
 ### \# 26 - 0.5.3	Which Biblical Terms List Does An Enhance Resource Use? (0.5.3)
 [**Overview**](https://drive.google.com/file/d/1pe0sikT92j3Dbmo1Ki-9S845LUqFlG4y/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1bvleQDT3_N1OADi4xXVU3lXw9JD5BS1k/view?usp=sharing)  
 - **Opening screen**  Jon 1:2, proj / enh res
@@ -334,4 +321,3 @@ There are now 2 ways to access Text collection  in P9.3
 [Overview](https://drive.google.com/file/d/1ZfYlG2CKoNyi-lVL1cjKabCUYfcOY1J9/view?usp=sharing)
 [**Actions**](https://drive.google.com/file/d/1ZfYlG2CKoNyi-lVL1cjKabCUYfcOY1J9/view?usp=sharing)
 - **Opening screen** Gen 29:2 Enh res Project, search results
-

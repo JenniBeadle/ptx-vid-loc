@@ -134,33 +134,109 @@ rendering : Biblical terms tool (proj bib terms)
     - Nope
     - Great
  - PTX print website
+ - 
 ## Notes
 ### \# 66 - 2.5a	Notes: How to Insert (2.5a)
 [Overview](https://drive.google.com/file/d/1muj-7o1dhVvdOFB3F7voEouVoJn2IPZn/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1Ujk7_MOvmplK1V45MJ8jlr248kYAARuj/view?usp=sharing)  
 - **Opening screen**  
+- **Prep**: Luk 3:4 proj+res+text
+
+
 - **Prep**: 
+Need several notes in text, then have
+several prepared to add, foontote to add note
+  -  Text for notes
+     -  Is there a better word we could use here? Sounds archaic.  (Luk 1:4)
+     -  This wording seems really awkward.  Consider rewording. (Luk 1:1)
+     - We had a long discussion over this sentence and concluded that this was the best way to translate it.
+     -  Is the phrase overly literal? 3:9)
+     -  Is this traditional word here?
+     -  Is this footnotee still needed?
+     -  Need to insert commas and check spelling.
+  -  Text for dialog callouts
+     -  Awkward wording? Reword it?
+     -  Is there a better word we could use here? Sounds archaic. (same as above)
+  -  several footnotes in Ch 3
+  -   
+
+
 ### \# 67 - 2.5b	Notes: Comment, Assign, Tag, Edit, Delete (2.5b)
 [**Overview**](https://drive.google.com/file/d/1VF_4lrmeVKBibmn-V-EeobNR32ZU09a4/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1GZhuqLyQLn4ixMQUEvi6l8DCJeJQMeoj/view?usp=sharing)  
-- **Opening screen**  
-- **Prep**: 
+- **Opening screen** Luk 1:1, note open, several
+other notes, one note with yellow backround
+- :::note
+V9 note: I (Susanna) did not retake the video but re-used the v8 one. Added bits where needed and re-edited thoroughly as migration and addition of music etc had taken their toll.  
+:::
+**Prep**
+  -  Text to translate for notes/comments
+     -  This does not have the right tone.
+     -  Ask question
+     -  Record decision
+     -  To do
+     -  Are we suure about this wording? Sounds peculiar.
+     -  I have made the wording match that used in Mark 1.
+     -  Make sure this matches other instances  in this quotation in parallel passages.
+     -  (prepare text to edit it to match the parallel passage)
+  -  Text for annotations
+     -  Tags
+     -  
+  -  note flags visible - two red, one yellow - so send/receive before adding one of the notes.
+  -  make sure tags have been set - To do. Discussion, Question.
+  Luk 3:7 existing note with typo
+
 ### \# 68 - 2.5c	Notes: Compare, Resolve (2.5c)
 [**Overview**](https://drive.google.com/file/d/1g94_WZPIPXOWt2Xed0bp2fhWclBBqtCB/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1r18yEV0eEjVXKzjhBCXAgIYG_xQY9bXL/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen** Luk 3:4, note open with
+a second comment and compare changes to the text showing. 
 - **Prep**: 
+  - Text to translate for notes/annotation
+    - Old wording
+    - This Paratext is now registered to (Ezequiel)
+    - New
+    - Deleted
+    - added deleted
+    - Looks good. Thanks.
+  - need two users (switch )
+
+
+
 ### \# 69 - 2.5d	Notes: Notes List (2.5d)
-[**Overview**](https://drive.google.com/file/d/15di7orLH3I2KR3J5uuYC7gqFUFNG-zCv/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1iRfecTEXaoUDuSKoc1J1wAN0QZzoI9Hb/view?usp=sharing)  
-- **Opening screen**  
+[**Overview**](https://drive.google.com/file/d/15di7orLH3I2KR3J5uuYC7gqFUFNG-zCv/view?  usp=sharing) [**Actions**](https://drive.google.com/file/d/1iRfecTEXaoUDuSKoc1J1wAN0QZzoI9Hb/view?usp=sharing)  
+- **Opening screen**  Luk 3:12
+ proj / notes list. Several notes in chap
 - **Prep**: 
+  - Text to translate for notes/annotation
+    - Notes List
+    - Extra actions
+    - Comments/ Re-assigned/ Reopened.
+    - Seems OK to me.
+
+
 ### \# 70 - 2.5e	Notes: Filter and Sort (2.5e)
 [**Overview**](https://drive.google.com/file/d/1zg0XooC8IJz-MG8by3Bs9B1VbDVEMEnf/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/17cabnYTBoyLfXMcJaf7qU6xtiDlACaq4/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen**  notes list set to all
+notes current book, some unread notes / then Luk 3:1
 - **Prep**:
-  - assign Notes to the user - can use pp [2.5e-pp](https://drive.google.com/file/d/1T_qfgHhLZHrT3oVV8ACUg9-Y8U6ABdga/view?usp=sharing)
+  - notes list needs to show both read and unread notes, also resolved and unresolved, and new note (yellow background showing unread)
+  - Project plan - assign Notes to the user - can use pp [2.5e-pp](https://drive.google.com/file/d/1T_qfgHhLZHrT3oVV8ACUg9-Y8U6ABdga/view?usp=sharing)
+  - Screenshot of next video title screen(i.e. 2.5f).
+
+
 ### \# 71 - 2.5f	Notes: Search and Hashtags (2.5f)
 [**Overview**](https://drive.google.com/file/d/10LPB-l8a3c2wC3GIFuSjtn91npgOSQzV/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1vR5Zp8kpjKUTqRyS8romBbf072XCTaGm/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen**  Proj Luk 1:1
+// text col //resource, notes with #
 - **Prep**: 
+  -  existing note with #foot
+  -  text to search for, eg sp / el / dis / wuw / #f / spell
+  -  2 tags to type in note e.g. #spellling #question) 
+
+
 ### \# 72 - 2.5g	Notes: Reattach (2.5g)
 [**Overview**](https://drive.google.com/file/d/1rA1FSJ7-nALCabfhcoLdnFuAgdG-3WXY/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1TixuQe1LleNPvuexJro8Gbe-ugJrci83/view?usp=sharing)  
-- **Opening screen**  
+- **Opening screen**  Luk 3:12
+Note open which is attached to one word in the text.
 - **Prep**: 
+  -  Text for note:
+     -  Can we word the tax collector bit better so the footnote isn't needed?
+     -  I still think this word is spelled wrong.

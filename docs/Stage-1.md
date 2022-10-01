@@ -153,7 +153,7 @@ This video is the Paratext 8 video (unchanged)
 :::tip
 The video was done in a much earlier version of Paratext 9. To get the dropdown list to merge conflicts you need to change a verse (not the introduction as in the video.)
 :::
-[**Overview**]  [**Actions**](https://drive.google.com/file/d/1yCugJ3y76-Ixo7wzr-Gz_gFCHBOzlGCz/view?usp=sharing)  
+[**Overview**]  [**Actions**](https://drive.google.com/file/d/1yCugJ3y76-Ixo7wzr-Gz_gFCHBOzlGCz/view?sp=sharing)  
 - **Opening screen**  
 - **Prep**: 
   -  two users each with permission to edit Acts. The second user, (“I” in the script) is a translator in the project, not an administrator
