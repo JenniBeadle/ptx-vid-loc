@@ -6,7 +6,7 @@ sidebar_position: 2
 There are at least 24 introductory videos. These notes have been prepared to help you localise the videos. 
 
 :::tip
-Most if not all of these videos can be done with any project. 
+Most if not all of the videos in the Introduction can be done with any project. 
 :::
 
 ## Intro P9
@@ -14,7 +14,7 @@ Most if not all of these videos can be done with any project.
 ### \# 2 - 0.01b	How the Windows Work 2
 These two videos (0.01a+0.01b) have been split. See Navigation below.
 ### \# 3 - 0.02	Why Change the menus
-[**Overview**]  [**Actions**]   
+[**Overview pdf**]   / [**Actions srt**]   
 - **Opening screen**  
 - **Prep**: 
     - make sure to set menus to standard menus (not full menus)
@@ -22,40 +22,83 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
     
 
 ### \# 4 - 0.03	Quick Guide to Quick Reference
-[**Overview**](https://drive.google.com/file/d/1SBxP9lKlIpd33bf5pk-GpKX6kxKRBogP/view?usp=sharing) [**Actions**]   
+[**Overview pdf**](https://drive.google.com/file/d/1SBxP9lKlIpd33bf5pk-GpKX6kxKRBogP/view?usp=sharing)  / [**Actions srt**]   
 - **Opening screen**  
 - **Prep**:   
   - several \r reference lines
   - a reference in a footnote
 
 ## Introduction
+
 ### \# 5 -	0.1	What is Paratext (0.1)
-[**Overview**](https://drive.google.com/file/d/1ok7ixl6bgQ0FRKhDiJVIGuz82iXCW3Lg/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1kJtG2lAwPn-4IbdWfbmJqRSkStnLgdCm/view?usp=sharing)  
-- **Opening screen**  
-- **Prep**:  Taken from script
-  :::danger
-  this needs to be checked to see if it needs updating.
-- Project plan: shown at 1:27 and 2:07
-- This is a detailed video showing most of the functions. It is best to leave it until last, That way you will have prepared suitable projects and may have footage to reuse.
+:::caution
+This is a detailed video with 11 chapters showing most of the functions. It is best to leave it until last, That way you will have prepared suitable projects and may have footage to reuse.
+:::
+[**Overview pdf**](https://drive.google.com/file/d/1ok7ixl6bgQ0FRKhDiJVIGuz82iXCW3Lg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1kJtG2lAwPn-4IbdWfbmJqRSkStnLgdCm/view?usp=sharing)  
+- **Opening screen** Acts 1:3 project, Greek source text (no interlinear lines) enhanced resource with another resource in tab, text collection (5 resources).  
+- **Prep**:  
+  - Text to translate for slides
+       - Paratext is the premier software for Bible translation. 10,000+ Active users. 
+       - Planning Managing Drafting Reviewing Checking 2,300+ Language projects. 
+       - My Cursor
+       - Manuel's Cursor
+       - Annual reports, Websites, novels, Business Letters, Health pamphlets, Bible
+       - This is worked extremely awkwardly according to Manuel.
+  -  Websites 
+      - paratext.org/terms-of-use website
+      - paratext.org (site has changed) click Getting Started then Downloads
+      -  extensions.libreoffice.org click on dictionary
 
-From script:
--  1.  Open in Paratext: PTP project, two resource projects (for example, NIV11 and GNT92), and the source language text. Click in PTP, then go to Windows \> Tile vertically. Paratext will allot equal screen space to the 4 projects, with PTP at the top left. Go to Matthew 11.
+  
+0-**Intro**
+  - Source language text, add lexeme
+  - Download resources
+  - Paratext website - terms of agreement
+  
+1-**Project plan** setup transition to Mark 4:29
+  -  Project plan setup - 
+  -  Define priorities - set several priorities
+  -  Project plan blue button, have some tasks already assigned
+  -  Back to project - error when typing
+     -  Make sure you don't have permission for Mark 4 but another book is editable. 
 
-2.  Click on the source language text window. If the Greek does not have lemmas (word roots) and glosses showing, click on “View” and check “lemmas” and “glosses.” The Greek should look like this:
+2-**Project notes** - add note (see text above)
+  -  Project plan - errors from project notes
+  -  Checks (several errors ch/v)
+  -  duplicated verse (cause by type in 3:24)
+  -  verse number in heading
+  -  verse missing (3:24) space between 2 4 
 
-![https://lh6.googleusercontent.com/pIzDIdx6SLHe73YYoTtohKPCapitUi_CCXBaItYNM2VOb026Yj-3fjcXuX8LJEwSKjT3hPjnL0T0cUeDiyvca0ba3Zfe64UouJqlHZf30SyRpR6OdOBmMyeRJxYsVzz1e9FLV0APpya2sua9FNv7yti0G5z7DwPS_4xvNkpM2WYrxwjFo-G2KNqx](media/93b94a842a3cadee742227b52ca664bf.png)
+3-**Resources**
+  - Open another source lanuage text (make sure not source text not selected when first open)
+  - **Enhanced resources**  Mrk 4:28
+   -  hover over word for 'harvest' in your language or another word with multiple senses
+  Enhanced resource in autohide.
 
-3) Modify PTP so Jerusalem is misspelled “Jeruslem” twice (for example, in Hebrews 12:22 and 13:12). In Tools \> Word list, make sure spelling status for “Jeruslem” is marked as unknown. Open Biblical terms (Tools, tool is set to display terms for current verse. Add an exegetical type note in Luke 3:9, for example, select “cut da tree roots” and write “we cut down trees at the trunk, then dig the roots out. Should we change this?”   
-4) In Matthew 11, delete two words from verse 1, for example “dey gotta” (9th and 10th words).
+4-**Windows layouts**: 
+  -  several windows open to drag around
+  -  several shared layouts, one using a resource that is not available
+ 
+5-**Collaboraton**: A second user who can edit the text is needed for the PT live demonstration.
 
-5) A second user who can edit the text is needed for the PT live demonstration.
+6-**Parallel passages**: Mat 5:13
 
-6) Create punctuation error in Luke 3. For example, delete space after a comma in verse 12.
+7-**Biblical terms**: Mat 5:24 verse range set to current section. rendering for kingdom
 
-7) Go to Assignments and Progress in PTP for Luke. Make sure the “Complete translation brief” and “Exegesis” task are checked as completed, while other tasks are not checked as completed.
+8-**Spell check**: several words with previous corrections to apply
+
+9-**Back translation**: Mat 13 completed, Act 1 (no back translation) type back translation for verse 1, then v2, edit text get ? compare
+  -  Interlinear Act 1:1 - change a gloss, correct a gloss, approve gloss
+
+10-**Help and Training**: Search "Bibli"
+  -  Shows video ~~portfolios~~ for various languages - change to training videos?? https://paratext.org/videos/ 
+
+11-**Register and download**
+  -  Paratext.org  registration
+ 
 
 ### \# 6 -	0.2.1a	How To Change The User Interface Language (0.2.1a)
-[**Overview**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
+[**Overview pdf**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
  [Actions.srt](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)
 - **Opening screen**  Any passage in standard view
 - **Prep**: 
@@ -65,7 +108,7 @@ From script:
 
 ## Navigation
 ### \# 7 -	0.2.1b	The Basics Of Projects And Resources (0.2.1b)
-- [Overivew](https://drive.google.com/file/d/1KBFsgSD-XV3C278c7Xo3gKpRY8khACeg/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)  
+- [**Overivew**](https://drive.google.com/file/d/1KBFsgSD-XV3C278c7Xo3gKpRY8khACeg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)  
 - **Opening screen**: Mat, with proj + 2 res as panels  
 - **Prep** 
   - you need permission to edit Matthew but not Mark
@@ -75,19 +118,19 @@ From script:
 
 
 ### \# 8 - 0.2.1c	Finding Menu Items (0.2.1c)
-[**Overview**](https://drive.google.com/file/d/1Z3ADSZ1uGaFBL0Hzj1ZwR7B-rrcRhWaa/view?usp=sharing) [**Actions**]  
+[**Overview pdf**](https://drive.google.com/file/d/1Z3ADSZ1uGaFBL0Hzj1ZwR7B-rrcRhWaa/view?usp=sharing)  / [**Actions srt**]  
 - **Opening screen**: Mat 1:6 project on left, 2nd col 3 res/res res Biblical terms   
 - **Prep**: none   
 - **Project**: any??
 
 
 ### \# 9 - 0.2.1d	How To Arrange Windows (0.2.1d)
-[**Overview**](https://drive.google.com/file/d/1XgF88AYJcwdz89SKQ5nj0-0riR_CnQxW/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1suyguV5hxTU7dEGT_RMBoIRLeFLLjfdK/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1XgF88AYJcwdz89SKQ5nj0-0riR_CnQxW/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1suyguV5hxTU7dEGT_RMBoIRLeFLLjfdK/view?usp=sharing)  
 - **Opening screen**  Mat 1
 - **Prep**: 
 -   First part 
-    - Show a **Good** arrangement of windows
-    - Mat 1:  Windows open: project, several  resources (tabs and pane), biblical terms renderings.
+    - Show a **Good** arrangement of
+    - Mat 1:  Windows open: project, several resources (tabs and pane), biblical terms renderings.
     - two items in Autohide (e.g. dictionary)
     - one floating window (? Greek text)
   - Second part
@@ -105,11 +148,11 @@ Susanna failed to record the screen actions in a way which worked with this scri
 
 
 ### \# 10 - 0.2.2a	How To Open And Modify A Text Collection (0.2.2a)
-:::info Changes in the latest version
+:::info Changes in Paratext 9.3
 There are now 2 ways to access Text collection  in P9.3
 :::
 
-[**Overview**](https://drive.google.com/file/d/1-rqlz4tOVSb5ES7Jx68COne6KnsbG4wP/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1mPh2P6MR1xhAR4OqScJpiSpY5ud3c52M/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1-rqlz4tOVSb5ES7Jx68COne6KnsbG4wP/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1mPh2P6MR1xhAR4OqScJpiSpY5ud3c52M/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
   - I’m starting from the “PTP with 6 resources” layout saved in the video on Arranging windows. I have closed the floating window for simplicity. 
@@ -119,7 +162,7 @@ There are now 2 ways to access Text collection  in P9.3
   - choose several resources to add to the text collection
 
 ### \# 11 - 0.2.3a	How To Control Which Windows Scroll Together (0.2.3a)
-[**Overview**](https://drive.google.com/file/d/1jbpIh6trm8cKwi6d5hM1UW3N1dGhIUPS/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1oPg8ZoNNe5N5sFEaU9aXwsInPWTp_97c/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1jbpIh6trm8cKwi6d5hM1UW3N1dGhIUPS/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1oPg8ZoNNe5N5sFEaU9aXwsInPWTp_97c/view?usp=sharing)  
 - **Opening screen**: Heb 10:1 with several resources open as panels.
 - **Prep**
   - Your project needs to have both OT and NT books
@@ -129,8 +172,8 @@ There are now 2 ways to access Text collection  in P9.3
 
 
 ### \# 12 - 0.2.3b	How To Set The Default Keyboard For A Project (0.2.3b)
-[**Overview**](https://drive.google.com/file/d/1WtLhl3VA_VQV0vX7nvX39h3XLZ-Ym2Yi/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/19DCo-dFmBvcQgccrP4mZzDquOZpSNN_F/view?usp=sharing)  
-- **Recording area**: You will need to capture the Keyman icons on the taskbar
+[**Overview pdf**](https://drive.google.com/file/d/1WtLhl3VA_VQV0vX7nvX39h3XLZ-Ym2Yi/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/19DCo-dFmBvcQgccrP4mZzDquOZpSNN_F/view?usp=sharing)  
+- **Recording area**: You will need to capture the Keyman icon on the taskbar
 - **Opening screen**  2 projects, two resources (one needing Keyman)
 - **Prep**: 
   - Annotation text to translate: 
@@ -141,7 +184,7 @@ There are now 2 ways to access Text collection  in P9.3
 
 
 ### \# 13 - 0.2.3c	How To Swap A Text In A Window (0.2.3c)
-[**Overview**](https://drive.google.com/file/d/1zU0XVu9A0zGDCeAfetXs3uHl8BUQsoUo/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1DPz5SA4tSyYelGhrVC399Beg1jTnqoq5/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1zU0XVu9A0zGDCeAfetXs3uHl8BUQsoUo/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1DPz5SA4tSyYelGhrVC399Beg1jTnqoq5/view?usp=sharing)  
 - **Opening screen**  Mat 1:1, project + 3 resources/ notes, dictionary in autohide,
 - **Prep**: 
   - choose a 4th resource to change to
@@ -149,7 +192,7 @@ There are now 2 ways to access Text collection  in P9.3
   - other windows to have open: Biblical terms windows, enhanced resource
 
 ### \# 14 - 0.2.3d	Further Tips On Arranging Windows (0.2.3d)
-[**Overview**](https://drive.google.com/file/d/1kSawCCWITwaJbcNclhsEUEH01HDf4VqI/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1Jnq4zDeLJIjChrtycp585Tj02jHZiznf/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1kSawCCWITwaJbcNclhsEUEH01HDf4VqI/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1Jnq4zDeLJIjChrtycp585Tj02jHZiznf/view?usp=sharing)  
 - **Recording screen**: you need to include the taskbar
 - **Opening screen**: Continues from 0.2.1d	*How To Arrange Windows*
 - **Prep**: 
@@ -166,7 +209,7 @@ There are now 2 ways to access Text collection  in P9.3
   Four projects in 3 column layout, PTP on the left, NRSV in middle, right column split vertically between anything (top) and NLT07 (bottom).
 
 ### \# 15 - 0.2.3e	How To View Other Bible Related Texts In Paratext (0.2.3e)
-[**Overview**](https://drive.google.com/file/d/1wLC9rOZHbA0vBfRzlM6m0CZYiB5jRrv-/view?usp=sharing) [**Actions**]
+[**Overview pdf**](https://drive.google.com/file/d/1wLC9rOZHbA0vBfRzlM6m0CZYiB5jRrv-/view?usp=sharing)  / [**Actions srt**]
 - **Opening screen**  
 - **Prep**: 
 - **Opening screen**: a screenshot of GLO in preview 
@@ -179,7 +222,7 @@ There are now 2 ways to access Text collection  in P9.3
   - **Screenshot** of preview view of a glossary in your UI language. 
 
 ### \# 16 - 0.2.4	Quick Bible Reference Navigation (0.2.4)
-[**Overview**](https://drive.google.com/file/d/1E2eBhoZS_93qAhRf5MyR8piwTlmw990m/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1dtx_vrWJCB6G4-GdlvjtkvaTXTqE0Rdw/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1E2eBhoZS_93qAhRf5MyR8piwTlmw990m/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1dtx_vrWJCB6G4-GdlvjtkvaTXTqE0Rdw/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
  - Make sure the project has at least:
@@ -190,7 +233,7 @@ There are now 2 ways to access Text collection  in P9.3
 
 ## Help
 ### \# 17 - 0.3	Finding Help (0.3)
-[**Overview**](https://drive.google.com/file/d/1tvA2T14nBMtAzaFuvht_bjctdk5VP5V5/view?usp=sharing) [**Actions**]  
+[**Overview pdf**](https://drive.google.com/file/d/1tvA2T14nBMtAzaFuvht_bjctdk5VP5V5/view?usp=sharing)  / [**Actions srt**]  
 - **Opening screen**  Mat 1:14 project / text collection + res+ source text
   -  A reasonable layout as a background. A project and a few resources/other tools.
 - **Prep**: 
@@ -205,7 +248,7 @@ There are now 2 ways to access Text collection  in P9.3
 
 ## Send and receive
 ### \# 18 - 0.4a	What Is Send & Receive Why Do I Need it (0.4a)
-[**Overview**](https://drive.google.com/file/d/1fvvkh5eZM5u517o3f5CcoQBd6jZoE1z9/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1BiutEFBRMb4055NwcI2NVJsXeBN2s3la/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1fvvkh5eZM5u517o3f5CcoQBd6jZoE1z9/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1BiutEFBRMb4055NwcI2NVJsXeBN2s3la/view?usp=sharing)  
 - **Opening screen**  Several photos
 - **Prep**: 
   - Several photos at the start (check OK as is?)
@@ -234,7 +277,7 @@ There are now 2 ways to access Text collection  in P9.3
     - Yes, you are all set. Do a send/receive.
 
 ### \# 19 - 0.4b	How To Receive A Shared Project For The First Time (0.4b)
-[**Overview**](https://drive.google.com/file/d/1-gFtHdmYsn1zSFgAAiB4FtjbhoiF98rd/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1jNiU6k4qdoTs8sHh_HsdJNSRYjUhD5qL/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1-gFtHdmYsn1zSFgAAiB4FtjbhoiF98rd/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1jNiU6k4qdoTs8sHh_HsdJNSRYjUhD5qL/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
   - Additional text to translate
@@ -257,7 +300,7 @@ There are now 2 ways to access Text collection  in P9.3
 - you will need to delete the project in between so it comes up as new again.
 
 ### \# 20 - 0.4c	Send & Receive Regularly To Keep A Shared Project In Sync (0.4c)
-[**Overview**](https://drive.google.com/file/d/1jAwtqyLQ9mdEWBHQcZjkCvfvW61pEgB2/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1DadHOTvWnh9n3aUZVBOh5MBZ5wkET_pd/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1jAwtqyLQ9mdEWBHQcZjkCvfvW61pEgB2/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1DadHOTvWnh9n3aUZVBOh5MBZ5wkET_pd/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
     - text to translate:
@@ -270,7 +313,7 @@ There are now 2 ways to access Text collection  in P9.3
  
 
 ### \# 21 - 0.4d	How to Avoid Causing Conflicts When Using Send & Receive (0.4d)
-[**Overview**](https://drive.google.com/file/d/1DadHOTvWnh9n3aUZVBOh5MBZ5wkET_pd/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1jAwtqyLQ9mdEWBHQcZjkCvfvW61pEgB2/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1DadHOTvWnh9n3aUZVBOh5MBZ5wkET_pd/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1jAwtqyLQ9mdEWBHQcZjkCvfvW61pEgB2/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
   - Screenshot User permissions
@@ -284,7 +327,7 @@ There are now 2 ways to access Text collection  in P9.3
 
 ## Enhanced Resources
 ### \# 22 - 0.5	Introduction To Enhanced Resources (0.5)
-[**Overview**](https://drive.google.com/file/d/1d6VgfOimEylCRa4jThpJaKNIe5XMLVAc/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/19ZNXaUrbYgAmLLMSzzfWaM1P_0sVummr/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1d6VgfOimEylCRa4jThpJaKNIe5XMLVAc/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/19ZNXaUrbYgAmLLMSzzfWaM1P_0sVummr/view?usp=sharing)  
 **Opening screen**: Mat 11:19 project+text collection then Enhanced resource at right.
 - **Prep**: 
   - Open the project BEFORE opening Enhanced resource (then Paratext will link it)
@@ -295,29 +338,29 @@ There are now 2 ways to access Text collection  in P9.3
 
 ### 0.5.1-0.5.5 Enhanced Resources
 ### \# 23 - 0.5.1	Enhanced Resources 1 - Linking To A Project (0.5.1)
-[**Overview**](https://drive.google.com/file/d/1_HT8c4Y0ChNP8QhgvqOJtEzrXvTThnaD/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1cJb7t9XLv8hiUNPOt_L0Ujazrg-7KNnv/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1_HT8c4Y0ChNP8QhgvqOJtEzrXvTThnaD/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1cJb7t9XLv8hiUNPOt_L0Ujazrg-7KNnv/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
 ### \# 24 - 0.5.2	Enhanced Resources 2 - Found And Problem Terms (0.5.2)
-[**Overview**](https://drive.google.com/file/d/1Omwu7sfu7xH0DJ52rnqZ9r70bukon_Cl/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1JWMYFxGjchojFM7PZUBIMfJbg6zGRyya/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1Omwu7sfu7xH0DJ52rnqZ9r70bukon_Cl/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1JWMYFxGjchojFM7PZUBIMfJbg6zGRyya/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
 ### \# 25 - 0.3a	How To Download And Install Resources And Enhanced Resources (0.3a)
-[**Overview**] [**Actions**]  
+[**Overview pdf**]  / [**Actions srt**]  
 **Opening screen** Mrk 5:42, Enh Res
 - **Prep**: 
   - Install some English resources on computer. 
   - Install one additional English resource with the “Show resources only in languages that match my installed resource” checked.
   -  Remove ESV16UK + and media files if it is installed. 
 ### \# 26 - 0.5.3	Which Biblical Terms List Does An Enhance Resource Use? (0.5.3)
-[**Overview**](https://drive.google.com/file/d/1pe0sikT92j3Dbmo1Ki-9S845LUqFlG4y/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1bvleQDT3_N1OADi4xXVU3lXw9JD5BS1k/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1pe0sikT92j3Dbmo1Ki-9S845LUqFlG4y/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1bvleQDT3_N1OADi4xXVU3lXw9JD5BS1k/view?usp=sharing)  
 - **Opening screen**  Jon 1:2, proj / enh res
 - **Prep**: 
 ### \# 27 - 0.5.4	Enhanced Resources - Searching With Right-Click (0.5.4)
-[**Overview**](https://drive.google.com/file/d/1pe0sikT92j3Dbmo1Ki-9S845LUqFlG4y/view?usp=sharing) [**Actions**](https://drive.google.com/file/d/1bvleQDT3_N1OADi4xXVU3lXw9JD5BS1k/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1pe0sikT92j3Dbmo1Ki-9S845LUqFlG4y/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1bvleQDT3_N1OADi4xXVU3lXw9JD5BS1k/view?usp=sharing)  
 - **Opening screen** Opening screen: Gen 29:1 EnhRes Project List, All research terms showing
 - **Prep**: 
 ### \# 28 - 0.5.5	Enhanced Resources - Searching For Words Using Shortcut Keys (0.5.5)
 [Overview](https://drive.google.com/file/d/1ZfYlG2CKoNyi-lVL1cjKabCUYfcOY1J9/view?usp=sharing)
-[**Actions**](https://drive.google.com/file/d/1ZfYlG2CKoNyi-lVL1cjKabCUYfcOY1J9/view?usp=sharing)
+ / [**Actions srt**](https://drive.google.com/file/d/1ZfYlG2CKoNyi-lVL1cjKabCUYfcOY1J9/view?usp=sharing)
 - **Opening screen** Gen 29:2 Enh res Project, search results
