@@ -19,9 +19,9 @@ It is broken up into sections
 - Codes Video titles and codes again. 
 - Helpful information
    - Links to the Overview PDF and Actions srt
-   - Opening screen: Luk 1:4, proj/res
-   - Any Prep needed before recording
-   - Project plan - tasks and  users required
+   - Opening screen: verse e.g. Luk 1:4, window layout e.g. proj/res
+   - Any preparation (Prep) needed before recording
+   - Project plan - tasks and users required
    - Any additional text to translate for annotactions, slides.
 
 Localisers are encouraged to edit these to share any tips and problems encountered.
