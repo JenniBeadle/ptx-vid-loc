@@ -8,7 +8,7 @@ This video has been revised for Paratext 9.3. The video has been rerecorded from
 - remove ~~The grey background on the symbol indicates which status is current~~
 - change column heading "~~count~~" > *containing the hash or pound sign*
 :::
-[**Overview pdf**](https://drive.google.com/file/d/1DHed5i-PAPeOcCD2ORPL82TaP-kP0uaZ/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1XngMSYR_Bp9sDrLfkyfJJSJdObyxce64/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1DHed5i-PAPeOcCD2ORPL82TaP-kP0uaZ/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1jAvJoziWZVP-sjz2p2ECUehh-n_hwK2Z/view?usp=sharing)  
 - **Opening screen**: Mat 13:13 Proj/Enh res/Text collection  
 - **Prep**:   
   - Open the wordlist tool and set all the words to undecided. 
@@ -36,7 +36,7 @@ This video has been revised for Paratext 9.3
    -  cowe unknown 
 - **Text for annotations** - Not all!/More likely to wrong, occurrences, Do I have editing permission for Luke? 
 :::
-[**Overview pdf**](https://drive.google.com/file/d/1OlGYaSo5l4PB-AKUtKyMst-9hL6z_tw3/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1k3lKGMjMpuFKfIOYpFIDeJL7RPa3-pa2/view?usp=sharing)  
+[**Overview pdf**](https://drive.google.com/file/d/1OlGYaSo5l4PB-AKUtKyMst-9hL6z_tw3/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1xXv0L-pQdmwDNFyniYaz5L8XMQ2nac1M/view?usp=sharing)  
 **Opening screen**: Mat 1:1
 Proj+bibl terms/Res+Text col.  
 - **Prep**: 
@@ -60,23 +60,25 @@ Proj+bibl terms/Res+Text col.
 
 ### \# 58 - 2.1c	Spell Check: Common Typos (2.1c)
 :::danger Revised
-This video has been revised for Paratext 9.3
+This video has been revised for Paratext 9.3, see details below.
 :::
-[**Overview pdf**](https://drive.google.com/file/d/13UhDi80gmAI0m33ynxqzNQWRjH6_vfEW/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1KNpZDMbqjpKJpO2Y_eVI4JmLGbs3UViQ/view?usp=sharing)  
+:::tip
+This tool uses corrections that have already been made before which are then used to identify other corrections. To get Paratext to remember corrections they must be made in the wordlist (not manual corrections). 
+:::
+[**Overview pdf**](https://drive.google.com/file/d/13UhDi80gmAI0m33ynxqzNQWRjH6_vfEW/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1hqXMSTxu3YnwemNsLcGTA-Sqs9JtrjAY/view?usp=sharing)  
 **Opening screen** Mat 14:36. The video starts with the wordlist open. Then closes it and shows how to open wordlist.  
 - **Prep**: 
    -  Record a short video on making a correction. 
       -  For example, in English video:
-      -  Change an occurrence of **odhe** to **ohde**. Use Wordlist tool. 
+      -  First Change an occurrence of **odhe** to **ohde**. Use Wordlist tool. 
       -  **RECORD**!!!! Mark ohde as incorrect and select odhe as the corrected spelling. Use this recording briefly in the edited Camtasia project.
-- Transition to show saved details: 
-  - Make a separate recording of the wordlist tool, open menu, select ‘show reviewed words that are no longer exist in project’. 
-  - Search for _hdaali_.  
-- (1:51) It needs errors have been previously made (see above about a recording).  
-:::tip
-This tool uses corrections that have already been made before which are then used to identify other corrections. To get Paratext to remember corrections they must be made in the wordlist (not manual corrections). 
-:::
-
+  - Used in 9.1 but not 9.3
+    - Later in the video, pause and record an other short video. 
+    - Make a separate recording of the wordlist tool, open menu, select ‘show reviewed words that are no longer exist in project’. 
+    - Search for _hdaali_.  
+  - If not using MTT, then choose words with a common typo for the recording.
+  - Look for 2-3 other words and their appropriate suggestion.
+  - Annotation with enlargement of common typo.
 
 ### \# 59 - 2.1d	More on Wordlist Tool (2.1d)
 :::danger Revised

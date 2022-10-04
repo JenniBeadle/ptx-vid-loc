@@ -60,25 +60,28 @@ GOTO MENU
 
 :DEPLOY
 cmd /C "set GIT_USER=JenniBeadle&& yarn deploy"
+pause
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :VERSION
 ECHO Version
 npm run docusaurus docs:version x.x
+pause
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :UPGRADE
 ECHO Upgrade
 npm i @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest
+pause
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :BUILD
 ECHO Build
 npm run build
-IF "%X%"== "1" GOTO :EOF
+pause IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :SERVE
