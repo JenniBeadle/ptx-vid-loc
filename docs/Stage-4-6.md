@@ -78,7 +78,11 @@ title: Stages 4-6 Consultant Check and finalisation for publication
 - **Opening screen**: Parallel passages tool 
   - Mat 14:1 current book. (Proj+1 res (no Greek))  
 - **Prep**
-  - a resource to add as comparative text
+-  MTT2 back up in Archive 
+-  - allows you to see Parallel Passages in Assignments and Progress dialog. (However watch out for passages in Matthew with no verses, was not helpful)
+-  Parallel Passages should be set to View > Approves sets of Parallels
+v- NIV11 only as comparative text. Grk/Heb OFF.
+  - choose a resource to add as comparative text
   - editing permission for book
 
   

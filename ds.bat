@@ -27,7 +27,7 @@ ECHO 9 - Clear the cache, build etc
 ECHO 0 - EXIT
 ECHO.
 
-SET /P M= Type 1-8 or 9 then press ENTER:
+SET /P M= Type 1-9 or 0 then press ENTER:
 :AFTER_MENU
 IF %M%==1 GOTO ENGLISH
 IF %M%==2 GOTO FRENCH
@@ -55,6 +55,7 @@ GOTO MENU
 :TRANSLATE
 ECHO Translate (npm run write-translations -- --locale fr)
 npm run write-translations -- --locale fr
+pause
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
@@ -81,18 +82,21 @@ GOTO MENU
 :BUILD
 ECHO Build
 npm run build
-pause IF "%X%"== "1" GOTO :EOF
+pause 
+IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :SERVE
 ECHO Serve (npm run serve)
 npm run serve
+pause
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :CLEARC
 ECHO Docusarus clear (cache, build...) npm run docusaurus clear
 npm run docusaurus clear
+pause
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 

@@ -89,23 +89,32 @@ This video is marked to be revised soon.
 ### \# 79 - 3.2d	Back Translation: How the Status Boxes Help (3.2d)
 [**Overview pdf**](https://drive.google.com/file/d/1rR3nng9cp73zHRJ0kR6HUyW9MaYaxRCj/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/189aC-9d30QC-7sfEBnRXDMvGw8axVG1g/view?usp=sharing)  
 - **Opening screen** Mat 1 (cursor in v25 but section 
-heading v18 on screen) proj / back (NO res.) 
+heading v18 on screen) proj / back (NO resources.) 
 - **Prep**: 
   - Project plan - set the **two back translation checks** to *Stage 3 Preparing for the Consultant*
-  - Add errors. (Some of the errors are difficult to reproduce).
-        - blank box unfinished
-        - ? = change made in translation project text after marked as completed 
-          - (add some changes that need to updated
-          - and others that don't need changing and can just be accepted) 
-            - v 18, minor wording correction in the back translation, no change is needed.
-            - In verse 20, the description of God’s spirit has been put into title case in translation, change back translation 
-        - x = empty verse in translation project text (v 25 error in verse number - correct translation)
-        - ! = error in verse number in the **translation** project (not the **back translation**)
+  -  Screenshot of help explaining status boxes
   -  Text to translate for annotation
      -  Current
      -  Older
-  -  Text to change in verse
-  -  Screenshot of help explaining status boxes
+  -  Prepare the text to change in verse to create and fix errors (see below).
+  - Back translation - complete the back translation of a chapter (e.g. Mat 1) and mark finished so that all verses in a chapter have green checkboxes.
+   - **During** the recording you will
+      -  add and correct several errors. Some of the errors are difficult to reproduce. Here are what is done in the English video. You will want to find suitable examples in your projects.
+   - Mat 1:1 (all verses marked as finished) then change a word in text (e.g. fathers) to a similar word (e.g. ancestors). The box will have a ?.
+   - **Transition**:
+        - edit the translation text to produce errors
+           -  change verse numbers 24 to v 25.
+           - make a minor change e.g. Mat 1:18 change to > fo
+   - **During** the recording you will
+   -  Mat 1:11  add to back translation "he was their father too"
+   -  Mat 1:18 accept the minor change ("to" >"fo") that doesn't need changing in back translation
+   -  Mat 1:20 "good an spesho" > "Good an Specho" (change to capitals in the video)
+   -  Mat 1:25 (has an X) change v 25 to v 24   
+-  **Transition** to version with **!** in verse 11
+   -  This ! relates to an error in a verse number in the **translation** project not the back translaton. It is not shown in the video but an earlier verse in the text was also marked as v 11 so there is an inconsistency in the verses. 
+:::tip
+In Paratext 9.3 this is not easy to produce. As in previous versions you need to change a verse number in the translation text. e.g. edit \v 1 in the translation project to \v 11.   -  Save the project. The status box shows a "**?**".  -  Click on the ? in the status box,   -  it incorrectly changes to a  checkmark, -  Click the checkmark  then it shows as the **!** 
+:::
 
 ### \# 80 - 3.2e	Back Translation: Ready for the Consultant and their Notes (3.2e)
 [**Overview pdf**](https://drive.google.com/file/d/1h0u3gWIrjZ9Y5CU6SB3XyphkZ6kUGrUz/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1_S2ABiwvdD3j9lGPJM1GAvWJJsD9XZSR/view?usp=sharing)  
@@ -133,7 +142,7 @@ This video will be revised soon.
       - 1+3: Model translation has manual back translation of a few books.
   - text for annotation
     - Published Model text
-    - Probably equivalents lined-up; not accurate glosses
+    - Probable equivalents lined-up; not accurate glosses
     - Does this really mean "blessed"?
   - choose verses with 
     - two very different words with same gloss
