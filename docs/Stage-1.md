@@ -3,6 +3,11 @@ title: Stage 1 Drafting
 ---
 
 ### \# 29 - 1.1	How To View Tasks Assigned To You (1.1)
+:::note Video
+[![ ](media/1.1.png)](https://vimeo.com/459384462)  
+https://vimeo.com/459384462
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1TOmpyV-9aqUmRH5LS5YTwLj-swngmJOR/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1AMkMPDiXLBbAF3vKb79n0-fyvZ3Z6qHn/view?usp=sharing)  
 - **Opening screen**: Luk 1:4, proj/res
 - **Prep**: 
@@ -22,6 +27,10 @@ When redoing or localizing this video, use the SIL Compact plan not the old SIL 
   
 ## USFMs
 ### \# 30 - 1.2.1	Understanding USFMs - Introduction (1.2.1)
+[![ ](media/1.2.1.png)](https://vimeo.com/368329210)  
+https://vimeo.com/368329210
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1ujygqmSs0LCh5mfvYYd3FF_0Jv5Dalol/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1SgoI_SE31VLSI6rGGYePyHVUcjhVIjZF/view?usp=sharing)  
 - **Opening screen** Rom 1:1 Proj + 2 res 
 - **Prep**: 
@@ -30,17 +39,32 @@ When redoing or localizing this video, use the SIL Compact plan not the old SIL 
 
 
 ### \# 31 - 1.2.2a	How Standard View Helps You Add Markers (1.2.2a)
+:::note Video
+[![ ](media/1.2.2a.png)](https://vimeo.com/387019039)  
+https://vimeo.com/387019039
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1mfAQF49NTA78OWIGcZQLQF710HAQZrxP/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1dWK1ibOyIRjDkyutlyxXJuJSz2yOhsOQ/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: MTT2 Rom 2
 
 
 ### \# 32 - 1.2.2b	How To Work With USFMs In Formatted View (1.2.2b)
+:::note Video
+[![ ](media/1.2.2b.png)](https://vimeo.com/387018983)  
+https://vimeo.com/387018983
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1zNf-V_VIswrzePvmOsKRh0kTxqWBzf4l/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1fcSlwEPxJZTV7bdX_YImVMRlrIkUZLlq/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: Rom 9 in MTT2. Remove paragraph break starting v10. Apply qt to some text - question in v 19.
   
 ### \# 33 - 1.2.2c	How To Use Basic View (1.2.2a)
+:::note Video
+[![ ](media/1.2.2c.png)](https://vimeo.com/387018929)  
+https://vimeo.com/387018929
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1tLVknnIGBT1TZZgMfONgSyEQ1cTE7JhO/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1cw4DPi24OzHJwB_q2MlNJf9fC80Rcjll/view?usp=sharing)  
 - **Opening screen**  Rom 11 in MTT2. 
 - **Prep**:  
@@ -48,6 +72,11 @@ When redoing or localizing this video, use the SIL Compact plan not the old SIL 
 
 
 ### \# 34 - 1.2.2d	What Is Unformatted View For (1.2.2d)
+:::note Video
+[![ ](media/1.2.2d.png)](https://vimeo.com/387959305)  
+https://vimeo.com/387959305
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/16JpEx1d4thb4W0GOHOfYbHNvOta7gTC5/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1wvNK2saOskeI09LLL8-0ZaSSmJaj59T-/view?usp=sharing)  
 - **Opening screen** Rom 9 in MTT2 
 - **Prep**: 
@@ -56,6 +85,11 @@ When redoing or localizing this video, use the SIL Compact plan not the old SIL 
 
 
 ### \# 35 - 1.2.2e	What Is Preview - How It Is Different From Formatted View (1.2.2e)
+:::note Video
+[![ ](media/1.2.2e.png)](https://vimeo.com/397214496)  
+https://vimeo.com/397214496
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1Drs83FAUu1QdARSNPSHFSczNO7L0OrB-/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1g8ZBPJqXU-_eEgX-BLXrGD0-EI0cWngL/view?usp=sharing)  
 - **Opening screen**  MTT2 Matt 13
 - **Prep**: 
@@ -63,6 +97,11 @@ When redoing or localizing this video, use the SIL Compact plan not the old SIL 
   -  footnote
 
 ### \# 36 - 1.2.3	How To Type A Backslash When There Isn't One On Your Keyboard (1.2.3)
+:::note Video
+[![ ](media/1.2.3.png)](https://vimeo.com/397234075)  
+https://vimeo.com/397234075
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/19q7s8n5InwDeBxZIdYDTdKeXLL-tZWOE/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1zoL1RBCNjqnrepLhy0ZSC5rU7W043AJJ/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -70,6 +109,11 @@ When redoing or localizing this video, use the SIL Compact plan not the old SIL 
 Improve on English videos by re-using footage of Standard view not Unformatted view.
 :::
 ### \# 37 - 1.2.4	The Best Way To Add Verse Numbers (1.2.4)
+:::note Video
+[![ ](media/1.2.4.png)](https://vimeo.com/397234111)  
+https://vimeo.com/397234111
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/15J98XfocfVIApt5CG7DksHnN-iqTubUG/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1gJpI6ewlAVXT81MkmiaqWCC7aKeLVHTr/view?usp=sharing)  
 - **Opening screen**  MTT2
 - **Prep**: 
@@ -81,6 +125,11 @@ Improve on English videos by re-using footage of Standard view not Unformatted v
 place a resource below the project to make your working area closer to the menu and prevent the action being hidden by the captions. :-)
 :::
 ### \# 38 - 1.2.5	How To Mark Non-Biblical Text (1.2.5)
+:::note Video
+[![ ](media/1.2.5.png)](https://vimeo.com/432596472)  
+https://vimeo.com/432596472
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1JzhEtgxGpsYU1BNh5dwbgQFJqYpcShT4/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1tl1uoDY_iXi-Vmf958BcRsO1NGSkgz6p/view?usp=sharing)  
 - **Opening screen**  Rom 1:1, Proj/2res
 - **Prep**: 
@@ -92,12 +141,22 @@ place a resource below the project to make your working area closer to the menu 
 
 ## More editing
 ### \# 39 - 1.3a	How To Scroll Between Chapters In A Window (1.3a)
+:::note Video
+[![ ](media/1.3a.png)](https://vimeo.com/436380192)  
+https://vimeo.com/436380192
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/13sUo2q6MIJr9jAvBY0PlbgWHGfmc6tsW/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1VW8Ct0lvlt17bJW1Ya19-346mAXLBVL1/view?usp=sharing)  
 - **Opening screen**  Rom 2
 - **Prep**: 
   -	Open PTP and some resources. 1280x720 should be adequate.
 
 ### \# 40 - 1.3b	How To Change The Size Of Text In A Window (1.3b)
+:::note Video
+[![ ](media/1.3b.png)](https://vimeo.com/436379857)  
+https://vimeo.com/436379857
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1tmQYuDQyVXhWd82E9rx-lrMmKX6Q-LVN/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1qOAB7iVul1I-4ahknU9kAnirclxohgcr/view?usp=sharing)  
 - **Opening screen**  Rom 2:5
 - **Prep**: 
@@ -105,6 +164,11 @@ place a resource below the project to make your working area closer to the menu 
   -   Dictionary in autohide
 
 ### \# 41 - 1.3c	Required Paragraph Markers (1.3c)
+:::note Video
+[![ ](media/1.3c.png)](https://vimeo.com/436379521)  
+https://vimeo.com/436379521
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1eJTstJ75i8emiiz2oQwspuAudVxGjAZg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/16Wyj8YvIveQ0jA5VF0iPfJQQE6RONpKG/view?usp=sharing)  
 - **Opening screen**  Rom 2 proj/3 res
 - **Prep**: 
@@ -113,6 +177,11 @@ place a resource below the project to make your working area closer to the menu 
   -  If Acts exists, delete the book in Paratext  then create it, so it is  empty except for chapter and verse numbers.
 
 ### \# 42 - 1.4	How To Use Checking Tools (1.4a)
+:::note Video
+[![ ](media/1.4.png)](https://vimeo.com/461361122)  
+https://vimeo.com/461361122
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1iDKGacIcmmAy1jABK08TWPHQpKdFFpRy/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1-HXsArUzebWacrZAr1eSJmKsxKk6V0fx/view?usp=sharing)  
 - **Opening screen** Mat 1:1 
 - **Prep**: 
@@ -131,6 +200,11 @@ place a resource below the project to make your working area closer to the menu 
 
 
 ### \# 43 - 1.5	Marking Tasks as Complete (1.5)
+:::note Video
+[![ ](media/1.5.png)](https://vimeo.com/461793250)  
+https://vimeo.com/461793250
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1Js4TQm8J5b8ei7rsIYf8UYNdYLBLnD9N/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1VagDK60w0lf7G39m1TO-a2y8TH5p-08E/view?usp=sharing)  
 - **Opening screen**: Mrk 1:1   
 - **Prep**: 
@@ -140,6 +214,11 @@ place a resource below the project to make your working area closer to the menu 
 
 
 ### \# 44 - 1.6a	What is a Conflict? (1.6a)
+:::note Video
+[![ ](media/1.6a.png)](https://vimeo.com/229615018)  
+https://vimeo.com/229615018
+:::
+
 :::info
 This video is the Paratext 8 video (unchanged)
 :::
@@ -150,6 +229,11 @@ This video is the Paratext 8 video (unchanged)
 
 
 ### \# 45 - 1.6b	Paratext Conflict Notes - What They Look Like And How To Deal With Them (1.6b)
+:::note Video
+[![ ](media/1.6b.png)](https://vimeo.com/438192934)  
+https://vimeo.com/438192934
+:::
+
 :::tip
 The video was done in a much earlier version of Paratext 9. To get the dropdown list to merge conflicts you need to change a verse (not the introduction as in the video.)
 :::
@@ -167,6 +251,11 @@ The video was done in a much earlier version of Paratext 9. To get the dropdown 
 
 
 ### \# 46 - 1A.3	How To Insert, View And Edit Footnotes (1A.3)
+:::note Video
+[![ ](media/1A.3.png)](https://vimeo.com/397234238)  
+https://vimeo.com/397234238
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1ERgemwPCS4aWcyAMHIMYjK3h-Cf3urAA/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1OI1C24j-hUpiM5FOYgftd7GlV3xEM1sx/view?usp=sharing)  
 - **Opening screen**: Gal 6:3 project/resource  
 - **Prep**: 
@@ -178,6 +267,11 @@ The video was done in a much earlier version of Paratext 9. To get the dropdown 
 These videos add entries and definitions in English as a demonstration. It needs to be clear that normally the entry and the definition is in the vernacular language.
 
 ### \# 47 - 1A.4a	Glossary: Adding Entries (1A.4a)
+:::note Video
+[![ ](media/1A.4a.png)](https://vimeo.com/451195974)  
+https://vimeo.com/451195974
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1DU8Q532AxkknsYLk5o_F_HzCHLQn1DvY/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/145CDd_mS5rbKNHB8XE8W_c4DgG9JVxsy/view?usp=sharing)  
 - **Opening screen**  MTT2 proj/res
 - **Prep**: 
@@ -186,6 +280,11 @@ These videos add entries and definitions in English as a demonstration. It needs
    -  Title slide to translate 
 
 ### \# 48 - 1A.4b	Glossary: Permission to Edit (1A.4b)
+:::note Video
+[![ ](media/1A.4b.png)](https://vimeo.com/476293601)  
+https://vimeo.com/476293601
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1saDSWL92RyUZWx3k7QC7T50Om0S3IoIk/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1ar1nxMUVkkDQbDR0lLOzFUUPZ9PJ4Cng/view?usp=sharing)  
 - **Opening screen**  Luk 1:67
 - **Prep**: 
@@ -193,6 +292,11 @@ These videos add entries and definitions in English as a demonstration. It needs
    -  Manuel: no permission PTP
 
 ### \# 49 - 1A.4c	Glossary: Finding/Linking Entries (1A.4c)
+:::note Video
+[![ ](media/1A.4c.png)](https://vimeo.com/499553868)  
+https://vimeo.com/499553868
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1iEXR5fBqx6KuWuzJVz3ALGz66aZJDcpP/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1yGF1CTje-4DUX79S_m6eZwb9wvVOu-z1/view?usp=sharing)  
 - **Opening screen**  Luk 3:16 proj+biblical tersm+notes / res+text collection 
 - **Prep**: 
@@ -200,6 +304,11 @@ These videos add entries and definitions in English as a demonstration. It needs
 
 
 ### \# 50 - 1A.4d	Glossary: Editing Entries (1A.4d)
+:::note Video
+[![ ](media/1A.4d.png)](https://vimeo.com/503489533)  
+https://vimeo.com/503489533
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/18UqGHcvhQe70JKPnZTI69i3vRthdzTJ9/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1FtW-SBxkv-BPSSFV3CCzNuVrXHt21KDE/view?usp=sharing)  
 - **Opening screen**  Luk 1:67
 - **Prep**: 
@@ -210,6 +319,11 @@ These videos add entries and definitions in English as a demonstration. It needs
 
 ## Illustrations and book introductions
 ### \# 51 - 1A.5a	Illustrations (1A.5a)
+:::note Video
+[![ ](media/1A.5a.png)](https://vimeo.com/483049054)  
+https://vimeo.com/483049054
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1vFsbn6MgYIVI4wG4iv6y0Ytln5Ya_ddF/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1pvYKPzp1ZGHqL1ijhcMsmUhuUHAstvaX/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -217,7 +331,13 @@ These videos add entries and definitions in English as a demonstration. It needs
     in English it is  --Frenz put one guy dat no can move down thru da flat roof in front Jesus--, 
     -  then delete figure from Mark 2:4, 
   -  Know where lb00305c.tif is kept to insert it later.
+
 ### \# 52 - 1A.5b	More about Illustrations (1A.5b)
+:::note Video
+[![ ](media/1A.5b.png)](https://vimeo.com/485458266)  
+https://vimeo.com/485458266
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1lVw-HenyswWSadwMrztp5wOFtyY3WADq/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1vV1Lg5U7xU4pTdC41Bd7FJshJnj1YtxB/view?usp=sharing)  
 - **Opening screen** Luk 1:1 
 - **Prep**: 
@@ -228,6 +348,11 @@ These videos add entries and definitions in English as a demonstration. It needs
     - description in LWC for the illustration 
 
 ### \# 53 - 1A.6	    Book Introductions (1A.6)
+:::note Video
+[![ ](media/1A.6.png)](https://vimeo.com/539087693)  
+https://vimeo.com/539087693
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1MQbTj5LJuXgiKsqTxGAAJAXJYX08Tusg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1e6YQx3FOdusVZEZFpE5Q34lLdt7GSS3Z/view?usp=sharing)  
 - **Opening screen**  Mrk 1:1
 - **Prep**: 
@@ -237,6 +362,11 @@ These videos add entries and definitions in English as a demonstration. It needs
 ## Basic checks
 
 ### \# 54 - 1A.7a	Characters Inventory (1A.7a)
+:::note Video
+[![ ](media/1A.7a.png)](https://vimeo.com/538686423)  
+https://vimeo.com/538686423
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1wkUxPlQOpE0DG5FILNkvMaKA9xFWDoy-/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1gOWCSQn1le1Y5t3KKfisl6CWXkrElt3t/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -249,6 +379,11 @@ These videos add entries and definitions in English as a demonstration. It needs
 
 
 ### \# 55 - 1A.7b	Punctuation Inventory (1A.7b)
+:::note Video
+[![ ](media/1A.7b.png)](https://vimeo.com/543104799)  
+https://vimeo.com/543104799
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1iPNBPIaazj4QDqxvpipW-HaFORgijTk_/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1sNaZIRImkwQlSYVAyj0eyPv1gGLzmqUb/view?usp=sharing)  
 - **Opening screen**  Punctuation inventory dialog on screen (examples of valid, invalid and unknown visible) then transition to project Mat 1:15
 

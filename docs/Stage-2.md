@@ -3,6 +3,12 @@ title: Stage 2  Team check and comprehension check
 ---
 ## Spell check and wordlist
 ### \# 56 - 2.1a	Approve Spellings of Common Words (2.1a)
+:::note Video
+[![ ](media/2.1a.png)](https://vimeo.com/546486468)  
+https://vimeo.com/546486468
+:::
+
+
 :::danger Revised
 This video has been revised for Paratext 9.3. The video has been rerecorded from 0.29 - to the end, due to the change in spell column. The audio has change in two places:
 - remove ~~The grey background on the symbol indicates which status is current~~
@@ -24,8 +30,14 @@ This video has been revised for Paratext 9.3. The video has been rerecorded from
     
 
 ### \# 57 - 2.1b	Spell Check Current Book (2.1b)
+:::note Video
+[![ ](media/2.1b.png)](https://vimeo.com/548821128)  
+https://vimeo.com/548821128
+:::
+
 :::danger Revised
-This video has been revised for Paratext 9.3
+This video has been revised for Paratext 9.3. The video has been rerecorded.
+
 - **Audio**: Script changes - added text: see [script](https://docs.google.com/document/d/1AIwkOG5mfAaKg739EmBWH3NnHJQ6vQoC6n66pB065z4/view?usp=sharing)
 -  **Video** *rerecorded from* **0:48** *to the end* due to visual changes in wordlist.
 -  **Project** changes for English video:
@@ -34,7 +46,7 @@ This video has been revised for Paratext 9.3
    -  Change ah**u**xomalaga -> ah**i**xomalaga in Matt 26:51. mark new spelling as Unknown
    -  makuzi unknown
    -  cowe unknown 
-- **Text for annotations** - Not all!/More likely to wrong, occurrences, Do I have editing permission for Luke? 
+- **Text for annotations** - Not all!/More likely to be wrong, occurrences, Do I have editing permission for Luke? 
 :::
 [**Overview pdf**](https://drive.google.com/file/d/1OlGYaSo5l4PB-AKUtKyMst-9hL6z_tw3/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1xXv0L-pQdmwDNFyniYaz5L8XMQ2nac1M/view?usp=sharing)  
 **Opening screen**: Mat 1:1
@@ -59,37 +71,71 @@ Proj+bibl terms/Res+Text col.
     - Do I have editing permission for Luke?
 
 ### \# 58 - 2.1c	Spell Check: Common Typos (2.1c)
-:::danger Revised
-This video has been revised for Paratext 9.3, see details below.
+:::note Video
+[![ ](media/2.1c.png)](https://vimeo.com/553297173)  
+https://vimeo.com/553297173
 :::
+
+:::danger Revised
+This video has been revised for Paratext 9.3, see details below. The video has been rerecorded to show visual changes to the Wordlist.
+
+Script changes:
+35
+00:03:05,300 --> 00:03:13,633
+If all occurrences are changed, then the original word is removed from this list, as it is no longer in the project. 
+
+36
+00:03:13,633 --> 00:03:22,366
+Behind the scenes, Paratext does keep note of that misspelled word, its incorrect status and the selected respelling...
+
+37
+00:03:22,366 --> 00:03:25,232
+...just as you can see here.
+:::
+
 :::tip
 This tool uses corrections that have already been made before which are then used to identify other corrections. To get Paratext to remember corrections they must be made in the wordlist (not manual corrections). 
 :::
+
 [**Overview pdf**](https://drive.google.com/file/d/13UhDi80gmAI0m33ynxqzNQWRjH6_vfEW/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1hqXMSTxu3YnwemNsLcGTA-Sqs9JtrjAY/view?usp=sharing)  
 **Opening screen** Mat 14:36. The video starts with the wordlist open. Then closes it and shows how to open wordlist.  
 - **Prep**: 
-   -  Record a short video on making a correction. 
-      -  For example, in English video:
-      -  First Change an occurrence of **odhe** to **ohde**. Use Wordlist tool. 
-      -  **RECORD**!!!! Mark ohde as incorrect and select odhe as the corrected spelling. Use this recording briefly in the edited Camtasia project.
+     - Record a short video on making a correction. 
+     - For example, in English video:
+     - First Change an occurrence of **odhe** to **ohde**. Use Wordlist tool. 
+     - **RECORD**!!!! Mark **ohde** as incorrect and select **odhe** as the corrected spelling. Use this recording briefly in the edited Camtasia project.
+
+:::danger Upgrade
   - Used in 9.1 but not 9.3
-    - Later in the video, pause and record an other short video. 
+    - Later in the video, pause and record another short video. 
     - Make a separate recording of the wordlist tool, open menu, select ‘show reviewed words that are no longer exist in project’. 
     - Search for _hdaali_.  
+:::
+
   - If not using MTT, then choose words with a common typo for the recording.
   - Look for 2-3 other words and their appropriate suggestion.
   - Annotation with enlargement of common typo.
 
 ### \# 59 - 2.1d	More on Wordlist Tool (2.1d)
+:::note Video
+[![ ](media/2.1d.png)](https://vimeo.com/555720721)  
+https://vimeo.com/555720721
+:::
+
 :::danger Revised
-This video will be revised for Paratext 9.3
+This video has been revised for Paratext 9.3. The video has been rerecorded with several action changes. 
+Numerous script changes between 03:18 - 05:27 and 06:45 - 07:22.
 :::
 [**Overview pdf**](https://drive.google.com/file/d/1rYQGjVH49lkUKCZKKNRrrAoAk9xN3D_R/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1XsRNrNSQYQyd4Ex7593T2nGxpG9bZzAo/view?usp=sharing)  
 - **Opening screen** wordlist Mat 5:45  
 - **Prep**: 
-  -  several capitalised words, a proper name, one occurs once, occurs both initially and medially  
+  -  several capitalised words, a proper name, one occurs once, one occurs both initially and medially  
 
 ### \# 60 - 2.1e	Wordlist: Edit Verse (2.1e)
+:::note Video
+[![ ](media/2.1e.png)](https://vimeo.com/551971835)  
+https://vimeo.com/551971835
+:::
 [**Overview pdf**](https://drive.google.com/file/d/18yIiadrxwaAebJyKee5Jf2HEN8iD1SZe/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1CUCkZ5lWLbkASRvDQ-z60ygmJGD_dJ1G/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -97,6 +143,11 @@ This video will be revised for Paratext 9.3
   -  From the wordlist, choose a word which occurs more than once
 
 ### \# 61 - 2.1f	Spell Check: Display Spelling Errors (2.1f)
+:::note Video
+[![ ](media/2.1f.png)](https://vimeo.com/564553145)  
+https://vimeo.com/564553145
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1njOSR4-zDlY9vT_7iCQr48E-YZ0Ss2Vu/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1y_ilgjO1zWRgVpKmv9eXTzR8PYgpHWB-/view?usp=sharing)  
 - **Opening screen**  Mat 1:17
 - **Prep**: 
@@ -111,14 +162,19 @@ This video will be revised for Paratext 9.3
      - suspicious undecided words
      - status undecided
      - is actually correct
-- need blank project
-      -  need text to type for several verses
+  - need blank book
+  - need text to type for several verses
 
 
 ## Biblical terms
-To learn the process of identifying Biblical terms, it helps if the viewer can at least vaguely understand the translation. Therefore the English videos use a back translation (into an European language) as the actual translation project. But it needs to be clear that translators use their **vernacular** language project and identify Biblical terms in their vernacular translation **not** their back translation.
+To learn the process of identifying Biblical terms, it helps if the viewer can at least vaguely understand the translation. Therefore, the English videos use a back translation (into an European language) as the actual translation project. But it needs to be clear that translators use their **vernacular** language project and identify Biblical terms in their vernacular translation **not** their back translation.
 
 ### \# 62 - 2.2a	Biblical Terms: Introduction (2.2a)
+:::note Video
+[![ ](media/2.2a.png)](https://vimeo.com/572485441)  
+https://vimeo.com/572485441
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/16DkTpR09Am6jasUCHVf4KiRBYmwbwPFh/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1eot9bj3OTiZBE1OqwnhZiF7l0vOQDb3W/view?usp=sharing)  
 - **Opening screen** Luk 3:4 Proj+Biblical terms
 rendering : Biblical terms tool (proj bib terms)
@@ -131,6 +187,11 @@ rendering : Biblical terms tool (proj bib terms)
      -  An Project Administrator sets this up for you.
 
 ### \# 63 - 2.2b	Biblical Terms: Identify Renderings (2.2b)
+:::note Video
+[![ ](media/2.2b.png)](https://vimeo.com/574900881)  
+https://vimeo.com/574900881
+:::
+
 [Overview](https://drive.google.com/file/d/1hqZojVgeSOgofWFNiAQD6w9xGNVJIr3K/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1XS2gzyAAfZW1k3WUuhfjBh7ifFoUEVCz/view?usp=sharing)  
 - **Opening screen** MTT2 Mark 2:23  
 - **Prep**:
@@ -143,6 +204,11 @@ rendering : Biblical terms tool (proj bib terms)
       -  archierus 
 
 ### \# 64 - 2.2c	Biblical Terms: Edit/Delete Renderings (2.2c)
+:::note Video
+[![ ](media/2.2c.png)](https://vimeo.com/577946059)  
+https://vimeo.com/577946059
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1XZIjzry5weLckovBR1DYmNfd9EdWFeHt/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1XS2gzyAAfZW1k3WUuhfjBh7ifFoUEVCz/view?usp=sharing)  
 - **Opening screen**  MTT2 Mrk 1:4  both Bib. terms windows on screen
 - **Prep**: 
@@ -156,6 +222,11 @@ rendering : Biblical terms tool (proj bib terms)
   -  *description to Type*: Check the root has been entered correctly so all inflections can be matched. Watch out for matches to baptism versus baptise.
 
 ### \# 65 - 2.4a	Print a Draft (2.4a)
+:::note Video
+[![ ](media/2.4a.png)](https://vimeo.com/636114390)  
+https://vimeo.com/636114390
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/14Lpxui-_engbQvD98riyF7BT6XHA_Jzh/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1yEkhyGVPEVds-9VMim_Zw1JLcyhnW7PR/view?usp=sharing)  
 - **Opening screen**  Luk 1:1 project / res+text coll
 
@@ -170,6 +241,12 @@ rendering : Biblical terms tool (proj bib terms)
 
 ## Notes
 ### \# 66 - 2.5a	Notes: How to Insert (2.5a)
+:::note Video
+[![ ](media/2.5a.png)](https://vimeo.com/571288190)  
+https://vimeo.com/571288190
+:::
+
+
 [Overview](https://drive.google.com/file/d/1muj-7o1dhVvdOFB3F7voEouVoJn2IPZn/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1Ujk7_MOvmplK1V45MJ8jlr248kYAARuj/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: Luk 3:4 proj+res+text
@@ -192,6 +269,11 @@ several prepared to add, footnote to add note
   -  several footnotes in Ch 3
 
 ### \# 67 - 2.5b	Notes: Comment, Assign, Tag, Edit, Delete (2.5b)
+:::note Video
+[![ ](media/2.5b.png)](https://vimeo.com/616907698)  
+https://vimeo.com/616907698
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1VF_4lrmeVKBibmn-V-EeobNR32ZU09a4/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1GZhuqLyQLn4ixMQUEvi6l8DCJeJQMeoj/view?usp=sharing)  
 - **Opening screen** Luk 1:1, note open, several
 other notes, one note with yellow background
@@ -216,6 +298,11 @@ V9 note: I (Susanna) did not retake the video but re-used the v8 one. Added bits
   Luk 3:7 existing note with typo
 
 ### \# 68 - 2.5c	Notes: Compare, Resolve (2.5c)
+:::note Video
+[![ ](media/2.5c.png)](https://vimeo.com/617987855)  
+https://vimeo.com/617987855
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1g94_WZPIPXOWt2Xed0bp2fhWclBBqtCB/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1r18yEV0eEjVXKzjhBCXAgIYG_xQY9bXL/view?usp=sharing)  
 - **Opening screen** Luk 3:4, note open with
 a second comment and compare changes to the text showing. 
@@ -232,6 +319,11 @@ a second comment and compare changes to the text showing.
 
 
 ### \# 69 - 2.5d	Notes: Notes List (2.5d)
+:::note Video
+[![ ](media/2.5d.png)](https://vimeo.com/623495136)  
+https://vimeo.com/623495136
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/15di7orLH3I2KR3J5uuYC7gqFUFNG-zCv/view?usp=sharing)   / [**Actions srt**](https://drive.google.com/file/d/1iRfecTEXaoUDuSKoc1J1wAN0QZzoI9Hb/view?usp=sharing)  
 - **Opening screen**  Luk 3:12
  proj / notes list. Several notes in chap
@@ -244,6 +336,11 @@ a second comment and compare changes to the text showing.
 
 
 ### \# 70 - 2.5e	Notes: Filter and Sort (2.5e)
+:::note Video
+[![ ](media/2.5e.png)](https://vimeo.com/629151674)  
+https://vimeo.com/629151674
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1zg0XooC8IJz-MG8by3Bs9B1VbDVEMEnf/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/17cabnYTBoyLfXMcJaf7qU6xtiDlACaq4/view?usp=sharing)  
 - **Opening screen**  notes list set to all
 notes current book, some unread notes / then Luk 3:1
@@ -254,6 +351,11 @@ notes current book, some unread notes / then Luk 3:1
 
 
 ### \# 71 - 2.5f	Notes: Search and Hashtags (2.5f)
+:::note Video
+[![ ](media/2.5f.png)](https://vimeo.com/630924351)  
+https://vimeo.com/630924351
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/10LPB-l8a3c2wC3GIFuSjtn91npgOSQzV/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1vR5Zp8kpjKUTqRyS8romBbf072XCTaGm/view?usp=sharing)  
 - **Opening screen**  Proj Luk 1:1
 // text col //resource, notes with #
@@ -264,6 +366,10 @@ notes current book, some unread notes / then Luk 3:1
 
 
 ### \# 72 - 2.5g	Notes: Reattach (2.5g)
+[![ ](media/2.5g.png)](https://vimeo.com/631816965)  
+https://vimeo.com/631816965
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1rA1FSJ7-nALCabfhcoLdnFuAgdG-3WXY/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1TixuQe1LleNPvuexJro8Gbe-ugJrci83/view?usp=sharing)  
 - **Opening screen**  Luk 3:12
 Note open which is attached to one word in the text.

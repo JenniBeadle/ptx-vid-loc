@@ -13,6 +13,7 @@ Most if not all of the videos in the Introduction can be done with any project.
 ### \# 1 - 0.01a	How the Windows Work 1
 ### \# 2 - 0.01b	How the Windows Work 2
 These two videos (0.01a+0.01b) have been split. See Navigation below.
+
 ### \# 3 - 0.02	Why Change the menus
 [**Overview pdf**]   / [**Actions srt**]   
 - **Opening screen**  
@@ -21,7 +22,12 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
     - this video uses colloquial American English. (Hamburger menu!)
     
 
-### \# 4 - 0.03	Quick Guide to Quick Reference
+### \# 4 - 0.0.3	Quick Guide to Quick Reference
+:::note Video
+[![ ](media/0.0.3.png)](https://vimeo.com/403437931)  
+https://vimeo.com/403437931
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1SBxP9lKlIpd33bf5pk-GpKX6kxKRBogP/view?usp=sharing)  / [**Actions srt**]   
 - **Opening screen**  
 - **Prep**:   
@@ -31,6 +37,11 @@ These two videos (0.01a+0.01b) have been split. See Navigation below.
 ## Introduction
 
 ### \# 5 -	0.1	What is Paratext (0.1)
+:::note Video
+[![ ](media/0.1.png)](https://vimeo.com/472226946)  
+https://vimeo.com/472226946
+:::
+
 :::caution
 This is a detailed video with 11 chapters showing most of the functions. It is best to leave it until last, That way you will have prepared suitable projects and may have footage to reuse.
 :::
@@ -98,6 +109,11 @@ This is a detailed video with 11 chapters showing most of the functions. It is b
  
 
 ### \# 6 -	0.2.1a	How To Change The User Interface Language (0.2.1a)
+:::note Video
+[![ ](media/0.2.1a.png)](https://vimeo.com/368328819)  
+https://vimeo.com/368328819
+:::
+
 [**Overview pdf**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
  [Actions.srt](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)
 - **Opening screen**  Any passage in standard view
@@ -108,7 +124,12 @@ This is a detailed video with 11 chapters showing most of the functions. It is b
 
 ## Navigation
 ### \# 7 -	0.2.1b	The Basics Of Projects And Resources (0.2.1b)
-- [**Overivew**](https://drive.google.com/file/d/1KBFsgSD-XV3C278c7Xo3gKpRY8khACeg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)  
+:::note Video
+[![ ](media/0.2.1b.png)](https://vimeo.com/368328862)  
+https://vimeo.com/368328862
+:::
+
+ [**Overivew**](https://drive.google.com/file/d/1KBFsgSD-XV3C278c7Xo3gKpRY8khACeg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)  
 - **Opening screen**: Mat, with proj + 2 res as panels  
 - **Prep** 
   - you need permission to edit Matthew but not Mark
@@ -118,6 +139,11 @@ This is a detailed video with 11 chapters showing most of the functions. It is b
 
 
 ### \# 8 - 0.2.1c	Finding Menu Items (0.2.1c)
+:::note Video
+[![ ](media/0.2.1c.png)](https://vimeo.com/425476264)  
+https://vimeo.com/425476264
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1Z3ADSZ1uGaFBL0Hzj1ZwR7B-rrcRhWaa/view?usp=sharing)  / [**Actions srt**]  
 - **Opening screen**: Mat 1:6 project on left, 2nd col 3 res/res res Biblical terms   
 - **Prep**: none   
@@ -125,6 +151,11 @@ This is a detailed video with 11 chapters showing most of the functions. It is b
 
 
 ### \# 9 - 0.2.1d	How To Arrange Windows (0.2.1d)
+:::note Video
+[![ ](media/0.2.1d.png)](https://vimeo.com/368328956)  
+https://vimeo.com/368328956
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1XgF88AYJcwdz89SKQ5nj0-0riR_CnQxW/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1suyguV5hxTU7dEGT_RMBoIRLeFLLjfdK/view?usp=sharing)  
 - **Opening screen**  Mat 1
 - **Prep**: 
@@ -148,6 +179,11 @@ Susanna failed to record the screen actions in a way which worked with this scri
 
 
 ### \# 10 - 0.2.2a	How To Open And Modify A Text Collection (0.2.2a)
+:::note Video
+[![ ](media/0.2.2a.png)](https://vimeo.com/377612892)  
+https://vimeo.com/377612892
+:::
+
 :::info Changes in Paratext 9.3
 There are now 2 ways to access Text collection  in P9.3
 :::
@@ -162,6 +198,11 @@ There are now 2 ways to access Text collection  in P9.3
   - choose several resources to add to the text collection
 
 ### \# 11 - 0.2.3a	How To Control Which Windows Scroll Together (0.2.3a)
+:::note Video
+[![ ](media/0.2.3a.png)](https://vimeo.com/382483908)  
+https://vimeo.com/382483908
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1jbpIh6trm8cKwi6d5hM1UW3N1dGhIUPS/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1oPg8ZoNNe5N5sFEaU9aXwsInPWTp_97c/view?usp=sharing)  
 - **Opening screen**: Heb 10:1 with several resources open as panels.
 - **Prep**
@@ -172,6 +213,11 @@ There are now 2 ways to access Text collection  in P9.3
 
 
 ### \# 12 - 0.2.3b	How To Set The Default Keyboard For A Project (0.2.3b)
+:::note Video
+[![ ](media/0.2.3b.png)](https://vimeo.com/427651172)  
+https://vimeo.com/427651172
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1WtLhl3VA_VQV0vX7nvX39h3XLZ-Ym2Yi/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/19DCo-dFmBvcQgccrP4mZzDquOZpSNN_F/view?usp=sharing)  
 - **Recording area**: You will need to capture the Keyman icon on the taskbar
 - **Opening screen**  2 projects, two resources (one needing Keyman)
@@ -184,6 +230,11 @@ There are now 2 ways to access Text collection  in P9.3
 
 
 ### \# 13 - 0.2.3c	How To Swap A Text In A Window (0.2.3c)
+:::note Video
+[![ ](media/0.2.3c.png)](https://vimeo.com/377612971)  
+https://vimeo.com/377612971
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1zU0XVu9A0zGDCeAfetXs3uHl8BUQsoUo/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1DPz5SA4tSyYelGhrVC399Beg1jTnqoq5/view?usp=sharing)  
 - **Opening screen**  Mat 1:1, project + 3 resources/ notes, dictionary in autohide,
 - **Prep**: 
@@ -192,6 +243,11 @@ There are now 2 ways to access Text collection  in P9.3
   - other windows to have open: Biblical terms windows, enhanced resource
 
 ### \# 14 - 0.2.3d	Further Tips On Arranging Windows (0.2.3d)
+:::note Video
+[![ ](media/0.2.3d.png)](https://vimeo.com/377613013)  
+https://vimeo.com/377613013
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1kSawCCWITwaJbcNclhsEUEH01HDf4VqI/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1Jnq4zDeLJIjChrtycp585Tj02jHZiznf/view?usp=sharing)  
 - **Recording screen**: you need to include the taskbar
 - **Opening screen**: Continues from 0.2.1d	*How To Arrange Windows*
@@ -209,6 +265,11 @@ There are now 2 ways to access Text collection  in P9.3
   Four projects in 3 column layout, PTP on the left, NRSV in middle, right column split vertically between anything (top) and NLT07 (bottom).
 
 ### \# 15 - 0.2.3e	How To View Other Bible Related Texts In Paratext (0.2.3e)
+:::note Video
+[![ ](media/0.2.3e.png)](https://vimeo.com/382483859)  
+https://vimeo.com/382483859
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1wLC9rOZHbA0vBfRzlM6m0CZYiB5jRrv-/view?usp=sharing)  / [**Actions srt**]
 - **Opening screen**  
 - **Prep**: 
@@ -222,6 +283,11 @@ There are now 2 ways to access Text collection  in P9.3
   - **Screenshot** of preview view of a glossary in your UI language. 
 
 ### \# 16 - 0.2.4	Quick Bible Reference Navigation (0.2.4)
+:::note Video
+[![ ](media/0.2.4.png)](https://vimeo.com/349939285)  
+https://vimeo.com/349939285
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1E2eBhoZS_93qAhRf5MyR8piwTlmw990m/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1dtx_vrWJCB6G4-GdlvjtkvaTXTqE0Rdw/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -233,6 +299,11 @@ There are now 2 ways to access Text collection  in P9.3
 
 ## Help
 ### \# 17 - 0.3	Finding Help (0.3)
+:::note Video
+[![ ](media/0.3.png)](https://vimeo.com/377618617)  
+https://vimeo.com/377618617
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1tvA2T14nBMtAzaFuvht_bjctdk5VP5V5/view?usp=sharing)  / [**Actions srt**]  
 - **Opening screen**  Mat 1:14 project / text collection + res+ source text
   -  A reasonable layout as a background. A project and a few resources/other tools.
@@ -248,6 +319,11 @@ There are now 2 ways to access Text collection  in P9.3
 
 ## Send and receive
 ### \# 18 - 0.4a	What Is Send & Receive Why Do I Need it (0.4a)
+:::note Video
+[![ ](media/0.4a.png)](https://vimeo.com/427677661)  
+https://vimeo.com/427677661
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1fvvkh5eZM5u517o3f5CcoQBd6jZoE1z9/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1BiutEFBRMb4055NwcI2NVJsXeBN2s3la/view?usp=sharing)  
 - **Opening screen**  Several photos
 - **Prep**: 
@@ -277,6 +353,11 @@ There are now 2 ways to access Text collection  in P9.3
     - Yes, you are all set. Do a send/receive.
 
 ### \# 19 - 0.4b	How To Receive A Shared Project For The First Time (0.4b)
+:::note Video
+[![ ](media/0.4b.png)](https://vimeo.com/428151156)  
+https://vimeo.com/428151156
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1-gFtHdmYsn1zSFgAAiB4FtjbhoiF98rd/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1jNiU6k4qdoTs8sHh_HsdJNSRYjUhD5qL/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -300,6 +381,11 @@ There are now 2 ways to access Text collection  in P9.3
 - you will need to delete the project in between so it comes up as new again.
 
 ### \# 20 - 0.4c	Send & Receive Regularly To Keep A Shared Project In Sync (0.4c)
+:::note Video
+[![ ](media/0.4c.png)](https://vimeo.com/428161965)  
+https://vimeo.com/428161965
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1jAwtqyLQ9mdEWBHQcZjkCvfvW61pEgB2/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1DadHOTvWnh9n3aUZVBOh5MBZ5wkET_pd/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -313,6 +399,11 @@ There are now 2 ways to access Text collection  in P9.3
  
 
 ### \# 21 - 0.4d	How to Avoid Causing Conflicts When Using Send & Receive (0.4d)
+:::note Video
+[![ ](media/0.4d.png)](https://vimeo.com/405554692)  
+https://vimeo.com/405554692
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1DadHOTvWnh9n3aUZVBOh5MBZ5wkET_pd/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1jAwtqyLQ9mdEWBHQcZjkCvfvW61pEgB2/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
@@ -327,6 +418,11 @@ There are now 2 ways to access Text collection  in P9.3
 
 ## Enhanced Resources
 ### \# 22 - 0.5	Introduction To Enhanced Resources (0.5)
+:::note Video
+[![ ](media/0.5.png)](https://vimeo.com/384631357)  
+https://vimeo.com/384631357
+:::
+
 [**Overview pdf**](https://drive.google.com/file/d/1d6VgfOimEylCRa4jThpJaKNIe5XMLVAc/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/19ZNXaUrbYgAmLLMSzzfWaM1P_0sVummr/view?usp=sharing)  
 **Opening screen**: Mat 11:19 project+text collection then Enhanced resource at right.
 - **Prep**: 
@@ -345,7 +441,13 @@ There are now 2 ways to access Text collection  in P9.3
 [**Overview pdf**](https://drive.google.com/file/d/1Omwu7sfu7xH0DJ52rnqZ9r70bukon_Cl/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1JWMYFxGjchojFM7PZUBIMfJbg6zGRyya/view?usp=sharing)  
 - **Opening screen**  
 - **Prep**: 
+- 
 ### \# 25 - 0.3a	How To Download And Install Resources And Enhanced Resources (0.3a)
+:::note Video
+[![0.3a ](media/0.3a.png)](https://vimeo.com/359173473)  
+https://vimeo.com/359173473
+:::
+
 [**Overview pdf**]  / [**Actions srt**]  
 **Opening screen** Mrk 5:42, Enh Res
 - **Prep**: 

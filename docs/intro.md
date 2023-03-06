@@ -14,6 +14,7 @@ This site is a work in progress. It is being developed to help you localise the 
 | [**Stage 2**](Stage-2.md) | (2.x) | 17 videos]
 | [**Stage 3**](Stage-3.md) | (3.x)  |  17 videos |
 | [**Stages 4-6**](Stage-4-6) | (4.x, 5.x, 6.x) | 6 videos |
+| [**Admin**](Admin-l.md) | | videos |
 
 
 For each video, it describes
