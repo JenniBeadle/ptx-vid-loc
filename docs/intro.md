@@ -9,12 +9,12 @@ This site is a work in progress. It is being developed to help you localise the 
 
 |  Stage  | Code |  # of videos |
 |---------|--------|--------------|
-| [**0-Introduction**](Introduction.md) | (0.x) | 28 videos |
-| [**Stage 1**](Stage-1.md) | (1.x - 1A.x) | 27 videos |
-| [**Stage 2**](Stage-2.md) | (2.x) | 17 videos]
-| [**Stage 3**](Stage-3.md) | (3.x)  |  17 videos |
-| [**Stages 4-6**](Stage-4-6) | (4.x, 5.x, 6.x) | 6 videos |
-| [**Admin**](Admin-l.md) | | videos |
+| [**0-Introduction**](Trans/Introduction.md) | (0.x) | 28 videos |
+| [**Stage 1**](Trans/Stage-1.md) | (1.x - 1A.x) | 27 videos |
+| [**Stage 2**](Trans/Stage-2.md) | (2.x) | 17 videos]
+| [**Stage 3**](Trans/Stage-3.md) | (3.x)  |  17 videos |
+| [**Stages 4-6**](Trans/Stage-4-6) | (4.x, 5.x, 6.x) | 6 videos |
+| [**Admin**](Admin/Admin.md) | | videos |
 
 
 For each video, it describes

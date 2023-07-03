@@ -7,7 +7,8 @@ title: Register new project (A.3)
 https://vimeo.com/796285090
 :::
 
-[**Overview pdf**](https://drive.google.com/file/d/1JGg6y_Fw7ETkx8LAStJyH0Nh-ZYCC9uH/view?usp=share_link) [**Actions srt**](https://drive.google.com/file/d/1JGg6y_Fw7ETkx8LAStJyH0Nh-ZYCC9uH/view?usp=share_link)
+Click for [**Overview pdf**](https://drive.google.com/file/d/1JGg6y_Fw7ETkx8LAStJyH0Nh-ZYCC9uH/view?usp=share_link) 
+Click for [**Actions srt**](https://drive.google.com/file/d/1JGg6y_Fw7ETkx8LAStJyH0Nh-ZYCC9uH/view?usp=share_link)
 
 **Opening screen** New project (unregistered) from previous video open (with resources on one side and project on the other)
 

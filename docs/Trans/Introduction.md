@@ -10,25 +10,20 @@ Most if not all of the videos in the Introduction can be done with any project.
 :::
 
 ## Intro P9
-### \# 1 - 0.01a	How the Windows Work 1
-### \# 2 - 0.01b	How the Windows Work 2
-These two videos (0.01a+0.01b) have been split. See Navigation below.
+#### - 0.01a	How the Windows Work 1
+#### - 0.01b	How the Windows Work 2
+These two videos (0.01a+0.01b) have been split. See Navigation below 0.2.1 and 0.2.2.
 
-### \# 3 - 0.02	Why Change the menus
-[**Overview pdf**]   / [**Actions srt**]   
-- **Opening screen**  
-- **Prep**: 
-    - make sure to set menus to standard menus (not full menus)
-    - this video uses colloquial American English. (Hamburger menu!)
-    
+### - 0.02	Why Change the menus
+This video is no longer relevant to most of our viewers. It relates problems on earlier versions of Paratext.
 
-### \# 4 - 0.0.3	Quick Guide to Quick Reference
+### \# 1 - 0.0.3	Quick Guide to Quick Reference
 :::note Video
 [![ ](media/0.0.3.png)](https://vimeo.com/403437931)  
 https://vimeo.com/403437931
 :::
 
-[**Overview pdf**](https://drive.google.com/file/d/1SBxP9lKlIpd33bf5pk-GpKX6kxKRBogP/view?usp=sharing)  / [**Actions srt**]   
+Click for [**Overview pdf**](https://drive.google.com/file/d/1SBxP9lKlIpd33bf5pk-GpKX6kxKRBogP/view?usp=sharing)  / [**Actions srt**]   
 - **Opening screen**  
 - **Prep**:   
   - several \r reference lines
@@ -36,7 +31,7 @@ https://vimeo.com/403437931
 
 ## Introduction
 
-### \# 5 -	0.1	What is Paratext (0.1)
+### \# 2 -	0.1	What is Paratext (0.1)
 :::note Video
 [![ ](media/0.1.png)](https://vimeo.com/472226946)  
 https://vimeo.com/472226946
@@ -45,7 +40,8 @@ https://vimeo.com/472226946
 :::caution
 This is a detailed video with 11 chapters showing most of the functions. It is best to leave it until last, That way you will have prepared suitable projects and may have footage to reuse.
 :::
-[**Overview pdf**](https://drive.google.com/file/d/1ok7ixl6bgQ0FRKhDiJVIGuz82iXCW3Lg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1kJtG2lAwPn-4IbdWfbmJqRSkStnLgdCm/view?usp=sharing)  
+Click for [**Overview pdf**](https://drive.google.com/file/d/1ok7ixl6bgQ0FRKhDiJVIGuz82iXCW3Lg/view?usp=sharing)  / [**Actions srt**](https://drive.google.com/file/d/1kJtG2lAwPn-4IbdWfbmJqRSkStnLgdCm/view?usp=sharing) /
+[**Summary**](https://manual.paratext.org/Video-summaries/Introduction/0.1)
 - **Opening screen** Acts 1:3 project, Greek source text (no interlinear lines) enhanced resource with another resource in tab, text collection (5 resources).  
 - **Prep**:  
   - Text to translate for slides
@@ -62,26 +58,27 @@ This is a detailed video with 11 chapters showing most of the functions. It is b
 
   
 0-**Intro**
-  - Source language text, add lexeme
-  - Download resources
-  - Paratext website - terms of agreement
+  - Right-click a greek word in Source language text, show lexeme
+  - Paratext menu > Download resources, click to turn off show resources...
+  - transition to Paratext website - terms of agreement (Paratext is Free)
   
 1-**Project plan** setup transition to Mark 4:29
-  -  Project plan setup - 
+  -  Project plan setup - (base plan alreay applied)
   -  Define priorities - set several priorities
   -  Project plan blue button, have some tasks already assigned
   -  Back to project - error when typing
      -  Make sure you don't have permission for Mark 4 but another book is editable. 
+     - need to errors to correct
 
 2-**Project notes** - add note (see text above)
   -  Project plan - errors from project notes
-  -  Checks (several errors ch/v)
-  -  duplicated verse (cause by type in 3:24)
+  -  Checks (several errors ch/v, markers)
+  -  duplicated verse (caused by typo in 3:24)
   -  verse number in heading
   -  verse missing (3:24) space between 2 4 
 
 3-**Resources**
-  - Open another source lanuage text (make sure not source text not selected when first open)
+  - Open another source lanuage text (make sure  source text is not selected when first open)
   - **Enhanced resources**  Mrk 4:28
    -  hover over word for 'harvest' in your language or another word with multiple senses
   Enhanced resource in autohide.
@@ -105,17 +102,19 @@ This is a detailed video with 11 chapters showing most of the functions. It is b
   -  Shows video ~~portfolios~~ for various languages - change to training videos?? https://paratext.org/videos/ 
 
 11-**Register and download**
-  -  Paratext.org  registration
+  -  Paratext.org  Get Started then Registration 
+  - Downloads.
  
 
-### \# 6 -	0.2.1a	How To Change The User Interface Language (0.2.1a)
+### \# 3 - 0.2.1a How To Change The User Interface Language (0.2.1a)
 :::note Video
 [![ ](media/0.2.1a.png)](https://vimeo.com/368328819)  
 https://vimeo.com/368328819
 :::
 
-[**Overview pdf**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
- [Actions.srt](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing)
+Click for [**Overview pdf**](https://docs.google.com/spreadsheets/d/1cGMmFm7l19GTHg7vvKA1bQMjRRCfKacJ/edit?usp=sharing&ouid=103165771678697843902&rtpof=true&sd=true)
+ [Actions.srt](https://drive.google.com/file/d/1hEjpYx-P-NpScsRiBwO-kadRXR7Ga-Ty/view?usp=sharing) 
+[**Summary**](https://manual.paratext.org/Video-summaries/Introduction/0.2.Navigation/0.2.1a) 
 - **Opening screen**  Any passage in standard view
 - **Prep**: 
   - You can use **any project** for this video.
