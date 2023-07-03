@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Overview
 slug: /
 ---
+This repository has been reset.
 
 ### How to use this site
 This site is a work in progress. It is being developed to help you localise the Paratext videos. The videos are grouped by stages. 
